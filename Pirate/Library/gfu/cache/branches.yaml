@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-10-25T12:46:16.218+02:00
-  initializedAtString: 2021-10-25T12:46:16.028+02:00
-  localBranches:
-  - name: Andrea
-    tracking: origin/Andrea
+  lastUpdatedAtString: 2021-10-29T20:12:20.430+02:00
+  initializedAtString: 2021-10-29T20:12:20.108+02:00
+  localBranches: []
   remoteBranches:
+  - name: origin/Andrea
+    tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
   remotes:
@@ -30,22 +30,22 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - Andrea
-    values:
-    - name: Andrea
-      remote:
-        name: origin
-        url: https://github.com/Andros9506/Project_MC
-      trackingBranch: Andrea
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - Andrea
       - HEAD
     subKeyValues:
     - Values:
+      - name: Andrea
+        remote:
+          name: origin
+          url: https://github.com/Andros9506/Project_MC
+        trackingBranch: 
       - name: HEAD
         remote:
           name: origin

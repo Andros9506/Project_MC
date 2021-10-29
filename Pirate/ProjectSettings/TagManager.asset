@@ -12,12 +12,12 @@ TagManager:
   - Water
   - UI
   - 
-  - 
+  - Sfondo
   - Fondo
   - Tang
-  - 
-  - 
-  - 
+  - Player
+  - Bomb
+  - Enemy
   - 
   - 
   - 
@@ -49,4 +49,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2369901425
+    locked: 0
+  - name: Bomb
+    uniqueID: 3059894219
     locked: 0
