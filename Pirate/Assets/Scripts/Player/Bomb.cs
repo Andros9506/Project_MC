@@ -20,7 +20,7 @@ public class Bomb : MonoBehaviour
         }
         transform.Translate(LaunchOffSet);
 
-        Destroy(gameObject, 5f);
+       // Destroy(gameObject, 5f);
     }
 
     // Update is called once per frame
