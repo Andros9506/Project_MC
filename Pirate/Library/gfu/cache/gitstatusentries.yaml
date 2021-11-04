@@ -13,108 +13,72 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-10-30T19:57:29.648+02:00
-  initializedAtString: 2021-10-30T19:29:08.741+02:00
+  lastUpdatedAtString: 2021-11-04T12:54:33.789+01:00
+  initializedAtString: 2021-11-04T11:51:09.766+01:00
   entries:
-  - path: Pirate\Assets\DestroyObject.cs
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\DestroyObject.cs
-    projectPath: Assets\DestroyObject.cs
+  - path: Pirate\Assets\Resources\Prefabs\Protagonista.prefab
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Prefabs\Protagonista.prefab
+    projectPath: Assets\Resources\Prefabs\Protagonista.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Assets\DestroyObject.cs.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\DestroyObject.cs.meta
-    projectPath: Assets\DestroyObject.cs.meta
+  - path: Pirate\Assets\Resources\Prefabs\Protagonista.prefab.meta
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Prefabs\Protagonista.prefab.meta
+    projectPath: Assets\Resources\Prefabs\Protagonista.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\1.png.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\1.png.meta
-    projectPath: Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\1.png.meta
+  - path: Pirate\Assets\Resources\Prefabs\UI.prefab
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Prefabs\UI.prefab
+    projectPath: Assets\Resources\Prefabs\UI.prefab
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\2.png.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\2.png.meta
-    projectPath: Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\2.png.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Assets\Resources\Prefabs\UI.prefab.meta
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Prefabs\UI.prefab.meta
+    projectPath: Assets\Resources\Prefabs\UI.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\3.png.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\3.png.meta
-    projectPath: Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\4.png.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\4.png.meta
-    projectPath: Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\4.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\5.png.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\5.png.meta
-    projectPath: Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\5.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\6.png.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\6.png.meta
-    projectPath: Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\6.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\7.png.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\7.png.meta
-    projectPath: Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\7.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\8.png.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\8.png.meta
-    projectPath: Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\8.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\9.png.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\9.png.meta
-    projectPath: Assets\Pirate bomb\7-Objects\1-BOMB\3-Explotion\9.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Resources\Bomb animation\Bomb.controller
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Bomb animation\Bomb.controller
-    projectPath: Assets\Resources\Bomb animation\Bomb.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Resources\Bomb animation\Explosion.anim
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Bomb animation\Explosion.anim
-    projectPath: Assets\Resources\Bomb animation\Explosion.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Resources\Prefabs\Bomb.prefab
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Prefabs\Bomb.prefab
-    projectPath: Assets\Resources\Prefabs\Bomb.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Pirate\Assets\Scenes\SampleScene.unity
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pirate\Assets\Scripts\Player\Bomb.cs
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Player\Bomb.cs
-    projectPath: Assets\Scripts\Player\Bomb.cs
+  - path: Pirate\Assets\Scripts\Enemys\EnemyAttackPoint.cs
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Enemys\EnemyAttackPoint.cs
+    projectPath: Assets\Scripts\Enemys\EnemyAttackPoint.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pirate\Assets\Scripts\Player\Shoot.cs
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Player\Shoot.cs
-    projectPath: Assets\Scripts\Player\Shoot.cs
+  - path: Pirate\Assets\Scripts\Player\HealthBar.cs
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Player\HealthBar.cs
+    projectPath: Assets\Scripts\Player\HealthBar.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pirate\Assets\Scripts\Player\Player_Stats.cs
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Player\Player_Stats.cs
+    projectPath: Assets\Scripts\Player\Player_Stats.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pirate\Assets\Scripts\Player\TakeDamage.cs
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Player\TakeDamage.cs
+    projectPath: Assets\Scripts\Player\TakeDamage.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Assets\Scripts\Player\TakeDamage.cs.meta
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Player\TakeDamage.cs.meta
+    projectPath: Assets\Scripts\Player\TakeDamage.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Assets\Scripts\Take.cs
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Take.cs
+    projectPath: Assets\Scripts\Take.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -124,51 +88,123 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pirate\Library\Artifacts\04\042a8aa5203674512cfd300ec8a176dd
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\04\042a8aa5203674512cfd300ec8a176dd
-    projectPath: Library\Artifacts\04\042a8aa5203674512cfd300ec8a176dd
+  - path: Pirate\Library\Artifacts\01\0102957429238113390c96f2b5d69ac9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\01\0102957429238113390c96f2b5d69ac9
+    projectPath: Library\Artifacts\01\0102957429238113390c96f2b5d69ac9
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\07\070fc9a3df123d63d770a69e4435c4e0
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\07\070fc9a3df123d63d770a69e4435c4e0
-    projectPath: Library\Artifacts\07\070fc9a3df123d63d770a69e4435c4e0
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\02\022b8a101a625f70467b8f78dacfa3f8
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\02\022b8a101a625f70467b8f78dacfa3f8
+    projectPath: Library\Artifacts\02\022b8a101a625f70467b8f78dacfa3f8
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\0a\0a264068604e969df8c242b2932f7dbc
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\0a\0a264068604e969df8c242b2932f7dbc
-    projectPath: Library\Artifacts\0a\0a264068604e969df8c242b2932f7dbc
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\02\02cf4db063315881d84cd034ca9818e3
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\02\02cf4db063315881d84cd034ca9818e3
+    projectPath: Library\Artifacts\02\02cf4db063315881d84cd034ca9818e3
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\0f\0f8f55ba3bfd161ae7b408603212a220
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\0f\0f8f55ba3bfd161ae7b408603212a220
-    projectPath: Library\Artifacts\0f\0f8f55ba3bfd161ae7b408603212a220
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\07\0748bb06b69123696fb27e152994c519
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\07\0748bb06b69123696fb27e152994c519
+    projectPath: Library\Artifacts\07\0748bb06b69123696fb27e152994c519
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\09\091c70d298103920b6941434cc0614d8
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\09\091c70d298103920b6941434cc0614d8
+    projectPath: Library\Artifacts\09\091c70d298103920b6941434cc0614d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\09\09ed450cdd6210366179b5428072aff4
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\09\09ed450cdd6210366179b5428072aff4
+    projectPath: Library\Artifacts\09\09ed450cdd6210366179b5428072aff4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\0a\0a4263ef95e0ac1386402adb88161cd1
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\0a\0a4263ef95e0ac1386402adb88161cd1
+    projectPath: Library\Artifacts\0a\0a4263ef95e0ac1386402adb88161cd1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\0a\0ad792568453f4b296620972c11e4190
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\0a\0ad792568453f4b296620972c11e4190
+    projectPath: Library\Artifacts\0a\0ad792568453f4b296620972c11e4190
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\10\10070ad9e39749daf9026bb2c62d005b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\10\10070ad9e39749daf9026bb2c62d005b
+    projectPath: Library\Artifacts\10\10070ad9e39749daf9026bb2c62d005b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\10\109a48a8e5e2bc32c111b3533551980c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\10\109a48a8e5e2bc32c111b3533551980c
+    projectPath: Library\Artifacts\10\109a48a8e5e2bc32c111b3533551980c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\11\116ad83e572acfbee6370c4abe337e23
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\11\116ad83e572acfbee6370c4abe337e23
+    projectPath: Library\Artifacts\11\116ad83e572acfbee6370c4abe337e23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\11\11b89b26e22488e502a80d32f6480a46
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\11\11b89b26e22488e502a80d32f6480a46
+    projectPath: Library\Artifacts\11\11b89b26e22488e502a80d32f6480a46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\11\11dfe9ebe567d7f7976069b00ebe61be
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\11\11dfe9ebe567d7f7976069b00ebe61be
     projectPath: Library\Artifacts\11\11dfe9ebe567d7f7976069b00ebe61be
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Pirate\Library\Artifacts\12\12626276716df7a6ac15800e70d7ed06
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\12\12626276716df7a6ac15800e70d7ed06
+    projectPath: Library\Artifacts\12\12626276716df7a6ac15800e70d7ed06
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\12\128d65d82e59e7f3aa4d30be48910757
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\12\128d65d82e59e7f3aa4d30be48910757
-    projectPath: Library\Artifacts\12\128d65d82e59e7f3aa4d30be48910757
+  - path: Pirate\Library\Artifacts\14\14197a9fa6d23fb2d26717b9d3d40cf5
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\14\14197a9fa6d23fb2d26717b9d3d40cf5
+    projectPath: Library\Artifacts\14\14197a9fa6d23fb2d26717b9d3d40cf5
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\13\1399ce464f3a45faa0c87604ec1097e6
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\13\1399ce464f3a45faa0c87604ec1097e6
-    projectPath: Library\Artifacts\13\1399ce464f3a45faa0c87604ec1097e6
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\15\157d19f087eb76cc652cb152658d2ded
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\15\157d19f087eb76cc652cb152658d2ded
+    projectPath: Library\Artifacts\15\157d19f087eb76cc652cb152658d2ded
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\17\17b6537c40dc6b29727337b96c6cd6c6
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\17\17b6537c40dc6b29727337b96c6cd6c6
-    projectPath: Library\Artifacts\17\17b6537c40dc6b29727337b96c6cd6c6
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\15\15cde6bb0a49eeee974bf228db62e939
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\15\15cde6bb0a49eeee974bf228db62e939
+    projectPath: Library\Artifacts\15\15cde6bb0a49eeee974bf228db62e939
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\18\18ca54f9491037fbc0d6f5c2f93ca052
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\18\18ca54f9491037fbc0d6f5c2f93ca052
+    projectPath: Library\Artifacts\18\18ca54f9491037fbc0d6f5c2f93ca052
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\19\1900f6d36a4f3e60299bb91ef9002f63
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\19\1900f6d36a4f3e60299bb91ef9002f63
+    projectPath: Library\Artifacts\19\1900f6d36a4f3e60299bb91ef9002f63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\19\1912fe881fcfac7d8a9587dc2ec479e1
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\19\1912fe881fcfac7d8a9587dc2ec479e1
+    projectPath: Library\Artifacts\19\1912fe881fcfac7d8a9587dc2ec479e1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -176,23 +212,71 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\19\19be4dd9794a06fac43904e0538db52f
     projectPath: Library\Artifacts\19\19be4dd9794a06fac43904e0538db52f
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Pirate\Library\Artifacts\1c\1c21f40e1d3ac091cef6b7a07f6d7758
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\1c\1c21f40e1d3ac091cef6b7a07f6d7758
+    projectPath: Library\Artifacts\1c\1c21f40e1d3ac091cef6b7a07f6d7758
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\1c\1c7987da47c5216611266cb01f17c7eb
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\1c\1c7987da47c5216611266cb01f17c7eb
-    projectPath: Library\Artifacts\1c\1c7987da47c5216611266cb01f17c7eb
+  - path: Pirate\Library\Artifacts\1d\1dfd79fbe18c908b7b988b19f3735d8b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\1d\1dfd79fbe18c908b7b988b19f3735d8b
+    projectPath: Library\Artifacts\1d\1dfd79fbe18c908b7b988b19f3735d8b
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\21\21f40a3a4b61f0e3c41a0002877df520
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\21\21f40a3a4b61f0e3c41a0002877df520
-    projectPath: Library\Artifacts\21\21f40a3a4b61f0e3c41a0002877df520
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\1e\1e641b992d880a83884bf18c7cf6d3f7
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\1e\1e641b992d880a83884bf18c7cf6d3f7
+    projectPath: Library\Artifacts\1e\1e641b992d880a83884bf18c7cf6d3f7
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\22\22b4e1dc29f1d2587a670df504fae045
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\22\22b4e1dc29f1d2587a670df504fae045
-    projectPath: Library\Artifacts\22\22b4e1dc29f1d2587a670df504fae045
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\1e\1ec57dad202287f8b0a6a10873911060
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\1e\1ec57dad202287f8b0a6a10873911060
+    projectPath: Library\Artifacts\1e\1ec57dad202287f8b0a6a10873911060
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\1f\1f02836afed91497c7d1a76319479b6c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\1f\1f02836afed91497c7d1a76319479b6c
+    projectPath: Library\Artifacts\1f\1f02836afed91497c7d1a76319479b6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\1f\1f04f84f9a1a2ad2400eb78907e49aa3
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\1f\1f04f84f9a1a2ad2400eb78907e49aa3
+    projectPath: Library\Artifacts\1f\1f04f84f9a1a2ad2400eb78907e49aa3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\20\20ea7a870517aee33a23e163d271915d
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\20\20ea7a870517aee33a23e163d271915d
+    projectPath: Library\Artifacts\20\20ea7a870517aee33a23e163d271915d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\23\23a3a719d683782ba626a0af18aeb6ac
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\23\23a3a719d683782ba626a0af18aeb6ac
+    projectPath: Library\Artifacts\23\23a3a719d683782ba626a0af18aeb6ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\25\25f29f08b815f34b77b760fc000edf51
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\25\25f29f08b815f34b77b760fc000edf51
+    projectPath: Library\Artifacts\25\25f29f08b815f34b77b760fc000edf51
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\26\26641a615b45a768460b1da5a5406438
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\26\26641a615b45a768460b1da5a5406438
+    projectPath: Library\Artifacts\26\26641a615b45a768460b1da5a5406438
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\27\279f19ff40bf33e2752aced081d8ce98
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\27\279f19ff40bf33e2752aced081d8ce98
+    projectPath: Library\Artifacts\27\279f19ff40bf33e2752aced081d8ce98
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -200,11 +284,59 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\27\27c3b4844c250cc20b3c619cf6dc127d
     projectPath: Library\Artifacts\27\27c3b4844c250cc20b3c619cf6dc127d
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Pirate\Library\Artifacts\28\2853177a7ae656b9cb908a08872307dd
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\28\2853177a7ae656b9cb908a08872307dd
+    projectPath: Library\Artifacts\28\2853177a7ae656b9cb908a08872307dd
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\29\2993cf759c047750be8fb8f81bb2a0ce
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\29\2993cf759c047750be8fb8f81bb2a0ce
-    projectPath: Library\Artifacts\29\2993cf759c047750be8fb8f81bb2a0ce
+  - path: Pirate\Library\Artifacts\29\2990bd25d1b64a0254a79b03edbe6ffb
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\29\2990bd25d1b64a0254a79b03edbe6ffb
+    projectPath: Library\Artifacts\29\2990bd25d1b64a0254a79b03edbe6ffb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\29\29a7f5a832d9e31119f950498e9c23d3
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\29\29a7f5a832d9e31119f950498e9c23d3
+    projectPath: Library\Artifacts\29\29a7f5a832d9e31119f950498e9c23d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\29\29ebef98be32c988a286a345a197e491
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\29\29ebef98be32c988a286a345a197e491
+    projectPath: Library\Artifacts\29\29ebef98be32c988a286a345a197e491
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\2a\2a803207586554a044bc4255e2659212
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2a\2a803207586554a044bc4255e2659212
+    projectPath: Library\Artifacts\2a\2a803207586554a044bc4255e2659212
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\2a\2ae073e309511892f8a510f15b7d3b96
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2a\2ae073e309511892f8a510f15b7d3b96
+    projectPath: Library\Artifacts\2a\2ae073e309511892f8a510f15b7d3b96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\2b\2b6f45ed3f37da6a2f3f8ed15ba05615
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2b\2b6f45ed3f37da6a2f3f8ed15ba05615
+    projectPath: Library\Artifacts\2b\2b6f45ed3f37da6a2f3f8ed15ba05615
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\2b\2bc9e5d7e30e9e7cd8ccb01ea4209042
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2b\2bc9e5d7e30e9e7cd8ccb01ea4209042
+    projectPath: Library\Artifacts\2b\2bc9e5d7e30e9e7cd8ccb01ea4209042
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\2d\2d1ced35a0ca677142c36e70f596e321
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2d\2d1ced35a0ca677142c36e70f596e321
+    projectPath: Library\Artifacts\2d\2d1ced35a0ca677142c36e70f596e321
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -212,17 +344,113 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2d\2d3bf84ae113f3303ab5776a05cfed68
     projectPath: Library\Artifacts\2d\2d3bf84ae113f3303ab5776a05cfed68
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\39\3901eb3a67033505b6bdf3ef2c91b080
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\39\3901eb3a67033505b6bdf3ef2c91b080
-    projectPath: Library\Artifacts\39\3901eb3a67033505b6bdf3ef2c91b080
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\39\39ed5f36cd6137f97f93b6239f1b76ea
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\39\39ed5f36cd6137f97f93b6239f1b76ea
-    projectPath: Library\Artifacts\39\39ed5f36cd6137f97f93b6239f1b76ea
+  - path: Pirate\Library\Artifacts\2d\2d9417a1b6e19adb874ca6f1dc9d3534
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2d\2d9417a1b6e19adb874ca6f1dc9d3534
+    projectPath: Library\Artifacts\2d\2d9417a1b6e19adb874ca6f1dc9d3534
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\2e\2ebd4a1c592711a029f7f00c6a7a40bc
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2e\2ebd4a1c592711a029f7f00c6a7a40bc
+    projectPath: Library\Artifacts\2e\2ebd4a1c592711a029f7f00c6a7a40bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\2f\2fef428d50d1ef4a8764e8b9a037e4fa
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2f\2fef428d50d1ef4a8764e8b9a037e4fa
+    projectPath: Library\Artifacts\2f\2fef428d50d1ef4a8764e8b9a037e4fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\30\3095f4254d6abfc421a76eca038ea272
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\30\3095f4254d6abfc421a76eca038ea272
+    projectPath: Library\Artifacts\30\3095f4254d6abfc421a76eca038ea272
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\30\30f3411e31c151b57d28d2c3dbfc0715
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\30\30f3411e31c151b57d28d2c3dbfc0715
+    projectPath: Library\Artifacts\30\30f3411e31c151b57d28d2c3dbfc0715
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\30\30f70c21c83e7ea1b84681e0c4b565e5
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\30\30f70c21c83e7ea1b84681e0c4b565e5
+    projectPath: Library\Artifacts\30\30f70c21c83e7ea1b84681e0c4b565e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\31\3163e24969bb6532c55061e0df46a9ef
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\31\3163e24969bb6532c55061e0df46a9ef
+    projectPath: Library\Artifacts\31\3163e24969bb6532c55061e0df46a9ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\34\34eaea42027a8185265ed80311ac77d9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\34\34eaea42027a8185265ed80311ac77d9
+    projectPath: Library\Artifacts\34\34eaea42027a8185265ed80311ac77d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\35\35e086336e47cbc5308acd76cc3d2297
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\35\35e086336e47cbc5308acd76cc3d2297
+    projectPath: Library\Artifacts\35\35e086336e47cbc5308acd76cc3d2297
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\36\36f696bcf2ecd869e25c581b3b429bd8
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\36\36f696bcf2ecd869e25c581b3b429bd8
+    projectPath: Library\Artifacts\36\36f696bcf2ecd869e25c581b3b429bd8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\38\386c172a637df234795d5bfa79094fdd
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\38\386c172a637df234795d5bfa79094fdd
+    projectPath: Library\Artifacts\38\386c172a637df234795d5bfa79094fdd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\39\393b9923f8733ae95176c894c5b9bb19
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\39\393b9923f8733ae95176c894c5b9bb19
+    projectPath: Library\Artifacts\39\393b9923f8733ae95176c894c5b9bb19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\39\39e0c447c597c58987a463cd31bcb2be
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\39\39e0c447c597c58987a463cd31bcb2be
+    projectPath: Library\Artifacts\39\39e0c447c597c58987a463cd31bcb2be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\3a\3adc7ac06a4079fe149e925f3e8e6e94
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\3a\3adc7ac06a4079fe149e925f3e8e6e94
+    projectPath: Library\Artifacts\3a\3adc7ac06a4079fe149e925f3e8e6e94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\3b\3b7d076c25e7b8309e262c99bdc57ba0
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\3b\3b7d076c25e7b8309e262c99bdc57ba0
+    projectPath: Library\Artifacts\3b\3b7d076c25e7b8309e262c99bdc57ba0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\40\4063bc2069bace1b4ffb559000af8c9e
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\40\4063bc2069bace1b4ffb559000af8c9e
+    projectPath: Library\Artifacts\40\4063bc2069bace1b4ffb559000af8c9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\40\40d23aef9fc8419516240a297a30d810
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\40\40d23aef9fc8419516240a297a30d810
+    projectPath: Library\Artifacts\40\40d23aef9fc8419516240a297a30d810
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\41\41147aab0eee3f12b6b41d8bc866715f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\41\41147aab0eee3f12b6b41d8bc866715f
+    projectPath: Library\Artifacts\41\41147aab0eee3f12b6b41d8bc866715f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -230,149 +458,863 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\42\42145486f714d1861d241958169630b2
     projectPath: Library\Artifacts\42\42145486f714d1861d241958169630b2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\42\421f5b0e54a05c89487e414eb512155f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\42\421f5b0e54a05c89487e414eb512155f
-    projectPath: Library\Artifacts\42\421f5b0e54a05c89487e414eb512155f
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\46\461e827d2916ea809352f31febe1e16a
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\46\461e827d2916ea809352f31febe1e16a
-    projectPath: Library\Artifacts\46\461e827d2916ea809352f31febe1e16a
+  - path: Pirate\Library\Artifacts\42\4279563a91ce9b8340e3ae655d94389b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\42\4279563a91ce9b8340e3ae655d94389b
+    projectPath: Library\Artifacts\42\4279563a91ce9b8340e3ae655d94389b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\49\490242a3bbb021b82f38ef197c792419
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\49\490242a3bbb021b82f38ef197c792419
-    projectPath: Library\Artifacts\49\490242a3bbb021b82f38ef197c792419
+  - path: Pirate\Library\Artifacts\42\4288463e2a3c8778e9707ed769f01e84
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\42\4288463e2a3c8778e9707ed769f01e84
+    projectPath: Library\Artifacts\42\4288463e2a3c8778e9707ed769f01e84
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\4d\4d878195664695efc9641a85c09ee333
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4d\4d878195664695efc9641a85c09ee333
-    projectPath: Library\Artifacts\4d\4d878195664695efc9641a85c09ee333
+  - path: Pirate\Library\Artifacts\45\4565bfbec83e69692ddb61600bc46217
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\45\4565bfbec83e69692ddb61600bc46217
+    projectPath: Library\Artifacts\45\4565bfbec83e69692ddb61600bc46217
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\52\5252bbc2fd3cff52040211a50c92b99b
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\52\5252bbc2fd3cff52040211a50c92b99b
-    projectPath: Library\Artifacts\52\5252bbc2fd3cff52040211a50c92b99b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\56\5676aa0d9860d4243d0cae35572f62e5
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\56\5676aa0d9860d4243d0cae35572f62e5
-    projectPath: Library\Artifacts\56\5676aa0d9860d4243d0cae35572f62e5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\5c\5c16e13557d843f9e5fd5371cff1d501
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5c\5c16e13557d843f9e5fd5371cff1d501
-    projectPath: Library\Artifacts\5c\5c16e13557d843f9e5fd5371cff1d501
+  - path: Pirate\Library\Artifacts\45\45ae68c47f8a74d0dc2f1911bcbadc2b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\45\45ae68c47f8a74d0dc2f1911bcbadc2b
+    projectPath: Library\Artifacts\45\45ae68c47f8a74d0dc2f1911bcbadc2b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+  - path: Pirate\Library\Artifacts\47\477d304c2ac30c579435cf6061159147
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\47\477d304c2ac30c579435cf6061159147
+    projectPath: Library\Artifacts\47\477d304c2ac30c579435cf6061159147
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\61\61684725dd12ca16a78c84a6554cf909
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\61\61684725dd12ca16a78c84a6554cf909
-    projectPath: Library\Artifacts\61\61684725dd12ca16a78c84a6554cf909
+  - path: Pirate\Library\Artifacts\48\48d39ab0fea7f70f55945ee580ec19c3
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\48\48d39ab0fea7f70f55945ee580ec19c3
+    projectPath: Library\Artifacts\48\48d39ab0fea7f70f55945ee580ec19c3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\66\6653960a44afbbea375e4f08fc7fad14
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\66\6653960a44afbbea375e4f08fc7fad14
-    projectPath: Library\Artifacts\66\6653960a44afbbea375e4f08fc7fad14
+  - path: Pirate\Library\Artifacts\49\491574751bd7db30382c2d201c0578e6
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\49\491574751bd7db30382c2d201c0578e6
+    projectPath: Library\Artifacts\49\491574751bd7db30382c2d201c0578e6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\67\671889227adbce9db417593f665e161e
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\67\671889227adbce9db417593f665e161e
-    projectPath: Library\Artifacts\67\671889227adbce9db417593f665e161e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\69\69ed8e87f2d7e46798ee4ad44220f340
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\69\69ed8e87f2d7e46798ee4ad44220f340
-    projectPath: Library\Artifacts\69\69ed8e87f2d7e46798ee4ad44220f340
+  - path: Pirate\Library\Artifacts\49\49245244ad072c08606a875696233a0f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\49\49245244ad072c08606a875696233a0f
+    projectPath: Library\Artifacts\49\49245244ad072c08606a875696233a0f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\71\7198c6f046608040f69e0b918dfd59db
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\71\7198c6f046608040f69e0b918dfd59db
-    projectPath: Library\Artifacts\71\7198c6f046608040f69e0b918dfd59db
+  - path: Pirate\Library\Artifacts\49\49881752150d72139b56bd50203a0498
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\49\49881752150d72139b56bd50203a0498
+    projectPath: Library\Artifacts\49\49881752150d72139b56bd50203a0498
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\75\757e238242c416389b06cda1b88c3e5e
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\75\757e238242c416389b06cda1b88c3e5e
-    projectPath: Library\Artifacts\75\757e238242c416389b06cda1b88c3e5e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\88\8864d6c4848220988ec45002051f915f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\88\8864d6c4848220988ec45002051f915f
-    projectPath: Library\Artifacts\88\8864d6c4848220988ec45002051f915f
+  - path: Pirate\Library\Artifacts\4a\4aed65502a950ff7f13c9929e6834d4c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4a\4aed65502a950ff7f13c9929e6834d4c
+    projectPath: Library\Artifacts\4a\4aed65502a950ff7f13c9929e6834d4c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\91\91ea9766df74eab2457c9a06e6ae4379
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\91\91ea9766df74eab2457c9a06e6ae4379
-    projectPath: Library\Artifacts\91\91ea9766df74eab2457c9a06e6ae4379
+  - path: Pirate\Library\Artifacts\4b\4ba521b860a4c205f9c864d65daa4203
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4b\4ba521b860a4c205f9c864d65daa4203
+    projectPath: Library\Artifacts\4b\4ba521b860a4c205f9c864d65daa4203
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\93\93600667d2fac5bf1e4efe059b44a676
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\93\93600667d2fac5bf1e4efe059b44a676
-    projectPath: Library\Artifacts\93\93600667d2fac5bf1e4efe059b44a676
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\94\94eb651854425ba6313797dbe74bc105
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\94\94eb651854425ba6313797dbe74bc105
-    projectPath: Library\Artifacts\94\94eb651854425ba6313797dbe74bc105
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\95\95b010801479439414e2fbb8a5b01346
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\95\95b010801479439414e2fbb8a5b01346
-    projectPath: Library\Artifacts\95\95b010801479439414e2fbb8a5b01346
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\9b\9b147f068f5557f208039bc98922a77c
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9b\9b147f068f5557f208039bc98922a77c
-    projectPath: Library\Artifacts\9b\9b147f068f5557f208039bc98922a77c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\9f\9f1cc00c3cf1d84212f2e6f926fcd135
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9f\9f1cc00c3cf1d84212f2e6f926fcd135
-    projectPath: Library\Artifacts\9f\9f1cc00c3cf1d84212f2e6f926fcd135
+  - path: Pirate\Library\Artifacts\4d\4da37dfd0564c899c4b67e86bf0696df
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4d\4da37dfd0564c899c4b67e86bf0696df
+    projectPath: Library\Artifacts\4d\4da37dfd0564c899c4b67e86bf0696df
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\a2\a24cb037e8e54ed5aec9c7f772f40c5e
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a2\a24cb037e8e54ed5aec9c7f772f40c5e
-    projectPath: Library\Artifacts\a2\a24cb037e8e54ed5aec9c7f772f40c5e
+  - path: Pirate\Library\Artifacts\4d\4da865a056f033cef75e4098cf0bdfc1
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4d\4da865a056f033cef75e4098cf0bdfc1
+    projectPath: Library\Artifacts\4d\4da865a056f033cef75e4098cf0bdfc1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\ab\ab820eb48e984a913c2e73249b30c3b9
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ab\ab820eb48e984a913c2e73249b30c3b9
-    projectPath: Library\Artifacts\ab\ab820eb48e984a913c2e73249b30c3b9
+  - path: Pirate\Library\Artifacts\4e\4e8576ea218b4019929021125bf41dfc
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4e\4e8576ea218b4019929021125bf41dfc
+    projectPath: Library\Artifacts\4e\4e8576ea218b4019929021125bf41dfc
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\4f\4f763fda9abae04619d258848576be3b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4f\4f763fda9abae04619d258848576be3b
+    projectPath: Library\Artifacts\4f\4f763fda9abae04619d258848576be3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\50\50267acdfefbefabd2f92411cacd9b85
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\50\50267acdfefbefabd2f92411cacd9b85
+    projectPath: Library\Artifacts\50\50267acdfefbefabd2f92411cacd9b85
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\51\517765ebe0b915c0895ec75a3d812066
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\51\517765ebe0b915c0895ec75a3d812066
+    projectPath: Library\Artifacts\51\517765ebe0b915c0895ec75a3d812066
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\53\53262e281a73902d0200eb354ba45477
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\53\53262e281a73902d0200eb354ba45477
+    projectPath: Library\Artifacts\53\53262e281a73902d0200eb354ba45477
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\55\55776b4483829fcafcfdfed947a4ba19
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\55\55776b4483829fcafcfdfed947a4ba19
+    projectPath: Library\Artifacts\55\55776b4483829fcafcfdfed947a4ba19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\55\559a62e628111a54d1a3d49193c9f953
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\55\559a62e628111a54d1a3d49193c9f953
+    projectPath: Library\Artifacts\55\559a62e628111a54d1a3d49193c9f953
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\57\574a8251be8aee84b57ac6c3185b5520
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\57\574a8251be8aee84b57ac6c3185b5520
+    projectPath: Library\Artifacts\57\574a8251be8aee84b57ac6c3185b5520
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\58\584fdb60bc05b52e4ea32e265de5bedf
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\58\584fdb60bc05b52e4ea32e265de5bedf
+    projectPath: Library\Artifacts\58\584fdb60bc05b52e4ea32e265de5bedf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\58\589be8c14b66e1cd731196664ae0494f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\58\589be8c14b66e1cd731196664ae0494f
+    projectPath: Library\Artifacts\58\589be8c14b66e1cd731196664ae0494f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\59\5976eaa8e87b8f6bb1bcaaf0831111bc
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\59\5976eaa8e87b8f6bb1bcaaf0831111bc
+    projectPath: Library\Artifacts\59\5976eaa8e87b8f6bb1bcaaf0831111bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\5a\5a8cc6499772716ce95b8241dea21241
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5a\5a8cc6499772716ce95b8241dea21241
+    projectPath: Library\Artifacts\5a\5a8cc6499772716ce95b8241dea21241
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\5d\5d1e6929ca7bae31aeec450195398569
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5d\5d1e6929ca7bae31aeec450195398569
+    projectPath: Library\Artifacts\5d\5d1e6929ca7bae31aeec450195398569
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\5d\5dfe0eb956d109195bd68d00699dc431
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5d\5dfe0eb956d109195bd68d00699dc431
+    projectPath: Library\Artifacts\5d\5dfe0eb956d109195bd68d00699dc431
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\5e\5e601a0b4ea69d1cf404e886cc23bab1
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5e\5e601a0b4ea69d1cf404e886cc23bab1
+    projectPath: Library\Artifacts\5e\5e601a0b4ea69d1cf404e886cc23bab1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\5e\5e6513d26c88de08972197d5eaca38a3
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5e\5e6513d26c88de08972197d5eaca38a3
+    projectPath: Library\Artifacts\5e\5e6513d26c88de08972197d5eaca38a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\5e\5ef8a1153a1b1f6952087f547aaa357b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5e\5ef8a1153a1b1f6952087f547aaa357b
+    projectPath: Library\Artifacts\5e\5ef8a1153a1b1f6952087f547aaa357b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\5f\5f80d2b300499f7624e15addca0f1a45
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5f\5f80d2b300499f7624e15addca0f1a45
+    projectPath: Library\Artifacts\5f\5f80d2b300499f7624e15addca0f1a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\5f\5fb5f608d0a90deedfa87f242b67f5f6
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5f\5fb5f608d0a90deedfa87f242b67f5f6
+    projectPath: Library\Artifacts\5f\5fb5f608d0a90deedfa87f242b67f5f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\60\606dcba26a85e2c1f33c1fc52d440c23
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\60\606dcba26a85e2c1f33c1fc52d440c23
+    projectPath: Library\Artifacts\60\606dcba26a85e2c1f33c1fc52d440c23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\60\60ae7e0a48e8e94a88b43a4980be14e5
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\60\60ae7e0a48e8e94a88b43a4980be14e5
+    projectPath: Library\Artifacts\60\60ae7e0a48e8e94a88b43a4980be14e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\61\6130d123ee4fd1c48a3378e89c1c534f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\61\6130d123ee4fd1c48a3378e89c1c534f
+    projectPath: Library\Artifacts\61\6130d123ee4fd1c48a3378e89c1c534f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\61\613f79ade47d1a39890d14f26c115b8f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\61\613f79ade47d1a39890d14f26c115b8f
+    projectPath: Library\Artifacts\61\613f79ade47d1a39890d14f26c115b8f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\61\6175bf1ae2afd3b7e2908dcf3d40a74c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\61\6175bf1ae2afd3b7e2908dcf3d40a74c
+    projectPath: Library\Artifacts\61\6175bf1ae2afd3b7e2908dcf3d40a74c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\62\6283fcd095bc4e403898c012e715e4da
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\62\6283fcd095bc4e403898c012e715e4da
+    projectPath: Library\Artifacts\62\6283fcd095bc4e403898c012e715e4da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\62\62daea70198804c61c060a59a1c8c8f8
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\62\62daea70198804c61c060a59a1c8c8f8
+    projectPath: Library\Artifacts\62\62daea70198804c61c060a59a1c8c8f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\64\648d02cabeaffbd492afeb63a27fb656
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\64\648d02cabeaffbd492afeb63a27fb656
+    projectPath: Library\Artifacts\64\648d02cabeaffbd492afeb63a27fb656
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\65\6590fac8a94818a7e411d63c34f4b659
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\65\6590fac8a94818a7e411d63c34f4b659
+    projectPath: Library\Artifacts\65\6590fac8a94818a7e411d63c34f4b659
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\67\672050d2358c496c632d2dc8b54d1909
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\67\672050d2358c496c632d2dc8b54d1909
+    projectPath: Library\Artifacts\67\672050d2358c496c632d2dc8b54d1909
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\68\6804ba7ce86255045f5f3d3f42d9c747
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\68\6804ba7ce86255045f5f3d3f42d9c747
+    projectPath: Library\Artifacts\68\6804ba7ce86255045f5f3d3f42d9c747
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\68\681ce339eab38bfd217e06a9179fcb6a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\68\681ce339eab38bfd217e06a9179fcb6a
+    projectPath: Library\Artifacts\68\681ce339eab38bfd217e06a9179fcb6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\68\6822d4e8a6138f94367d411386ceca98
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\68\6822d4e8a6138f94367d411386ceca98
+    projectPath: Library\Artifacts\68\6822d4e8a6138f94367d411386ceca98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\68\689a9f4a4dded0e7e337b154a2fe4c0d
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\68\689a9f4a4dded0e7e337b154a2fe4c0d
+    projectPath: Library\Artifacts\68\689a9f4a4dded0e7e337b154a2fe4c0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\69\69593e00715fa71342f10f834888ee07
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\69\69593e00715fa71342f10f834888ee07
+    projectPath: Library\Artifacts\69\69593e00715fa71342f10f834888ee07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\69\69fb9d7c91517d4defd04879c49d9f95
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\69\69fb9d7c91517d4defd04879c49d9f95
+    projectPath: Library\Artifacts\69\69fb9d7c91517d4defd04879c49d9f95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\6a\6ad8825420236aeb5ddbb43e4f692521
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6a\6ad8825420236aeb5ddbb43e4f692521
+    projectPath: Library\Artifacts\6a\6ad8825420236aeb5ddbb43e4f692521
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\6b\6b6e25f13dea6602198d9c93db33e5e1
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6b\6b6e25f13dea6602198d9c93db33e5e1
+    projectPath: Library\Artifacts\6b\6b6e25f13dea6602198d9c93db33e5e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\6b\6bbe03bb45fe0990579a4aa5aad98b87
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6b\6bbe03bb45fe0990579a4aa5aad98b87
+    projectPath: Library\Artifacts\6b\6bbe03bb45fe0990579a4aa5aad98b87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\6c\6c60b05bbc3a689d86993dd11eb216db
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6c\6c60b05bbc3a689d86993dd11eb216db
+    projectPath: Library\Artifacts\6c\6c60b05bbc3a689d86993dd11eb216db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\6d\6d1d66a48b5192b7586cbafcff1a7662
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6d\6d1d66a48b5192b7586cbafcff1a7662
+    projectPath: Library\Artifacts\6d\6d1d66a48b5192b7586cbafcff1a7662
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\6d\6ddfd83f51f576f6546023df839a124a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6d\6ddfd83f51f576f6546023df839a124a
+    projectPath: Library\Artifacts\6d\6ddfd83f51f576f6546023df839a124a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\6e\6e4d4d2781773cd1a490f7dc8e680b54
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6e\6e4d4d2781773cd1a490f7dc8e680b54
+    projectPath: Library\Artifacts\6e\6e4d4d2781773cd1a490f7dc8e680b54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\6e\6e59661641577933acd059eee1ffffc6
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6e\6e59661641577933acd059eee1ffffc6
+    projectPath: Library\Artifacts\6e\6e59661641577933acd059eee1ffffc6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\6f\6fae5affdf5a3d845b0d341138442683
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6f\6fae5affdf5a3d845b0d341138442683
+    projectPath: Library\Artifacts\6f\6fae5affdf5a3d845b0d341138442683
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\6f\6fbdb696d2cef2b3264c204f64658f9e
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6f\6fbdb696d2cef2b3264c204f64658f9e
+    projectPath: Library\Artifacts\6f\6fbdb696d2cef2b3264c204f64658f9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\70\706fa55d42f75c021b09308a87a0758f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\70\706fa55d42f75c021b09308a87a0758f
+    projectPath: Library\Artifacts\70\706fa55d42f75c021b09308a87a0758f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\71\7112373844c91e3a5458027e080ff38d
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\71\7112373844c91e3a5458027e080ff38d
+    projectPath: Library\Artifacts\71\7112373844c91e3a5458027e080ff38d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\71\715e10494f002ccdd8f6557e1f035511
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\71\715e10494f002ccdd8f6557e1f035511
+    projectPath: Library\Artifacts\71\715e10494f002ccdd8f6557e1f035511
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\71\7181da6f1fd89051ca6eb4ede5f8cfe5
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\71\7181da6f1fd89051ca6eb4ede5f8cfe5
+    projectPath: Library\Artifacts\71\7181da6f1fd89051ca6eb4ede5f8cfe5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\71\71f9fdb24a5c39fb7405ab8edc512d94
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\71\71f9fdb24a5c39fb7405ab8edc512d94
+    projectPath: Library\Artifacts\71\71f9fdb24a5c39fb7405ab8edc512d94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\72\7224ac34036fa34350e9fef1c76991f9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\72\7224ac34036fa34350e9fef1c76991f9
+    projectPath: Library\Artifacts\72\7224ac34036fa34350e9fef1c76991f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\72\7227d29e7a24fdd0e435acb6dfdefdfa
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\72\7227d29e7a24fdd0e435acb6dfdefdfa
+    projectPath: Library\Artifacts\72\7227d29e7a24fdd0e435acb6dfdefdfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\74\74e9213e2075606a73e60095c865589e
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\74\74e9213e2075606a73e60095c865589e
+    projectPath: Library\Artifacts\74\74e9213e2075606a73e60095c865589e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\75\750ab25db242639f8a106b2eb1789214
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\75\750ab25db242639f8a106b2eb1789214
+    projectPath: Library\Artifacts\75\750ab25db242639f8a106b2eb1789214
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\75\7529ab54a03d53458798615a72f09106
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\75\7529ab54a03d53458798615a72f09106
+    projectPath: Library\Artifacts\75\7529ab54a03d53458798615a72f09106
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\76\7662a93dbb063a131e28da98f97278e4
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\76\7662a93dbb063a131e28da98f97278e4
+    projectPath: Library\Artifacts\76\7662a93dbb063a131e28da98f97278e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\77\773db2b95a8b84000802f11e371b98bd
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\77\773db2b95a8b84000802f11e371b98bd
+    projectPath: Library\Artifacts\77\773db2b95a8b84000802f11e371b98bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\78\7805e5bc78b4976ea9e872471849bb30
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\78\7805e5bc78b4976ea9e872471849bb30
+    projectPath: Library\Artifacts\78\7805e5bc78b4976ea9e872471849bb30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\78\781d727c002ef7280d5337f433b14084
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\78\781d727c002ef7280d5337f433b14084
+    projectPath: Library\Artifacts\78\781d727c002ef7280d5337f433b14084
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\78\78dc830a61b4a8806834d7995090a124
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\78\78dc830a61b4a8806834d7995090a124
+    projectPath: Library\Artifacts\78\78dc830a61b4a8806834d7995090a124
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\79\7976951ea9e3f9ec4d759fbf7e53f127
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\79\7976951ea9e3f9ec4d759fbf7e53f127
+    projectPath: Library\Artifacts\79\7976951ea9e3f9ec4d759fbf7e53f127
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\7a\7af929ec0aaa197efbc9232df6652c3d
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\7a\7af929ec0aaa197efbc9232df6652c3d
+    projectPath: Library\Artifacts\7a\7af929ec0aaa197efbc9232df6652c3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\7b\7b33dc66b98131e4d92a1f606131157b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\7b\7b33dc66b98131e4d92a1f606131157b
+    projectPath: Library\Artifacts\7b\7b33dc66b98131e4d92a1f606131157b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\7b\7b42679d7311d5bfddad943ddd19e38c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\7b\7b42679d7311d5bfddad943ddd19e38c
+    projectPath: Library\Artifacts\7b\7b42679d7311d5bfddad943ddd19e38c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\7c\7c0ccd6fabc5d2889bc66fefadfd70c2
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\7c\7c0ccd6fabc5d2889bc66fefadfd70c2
+    projectPath: Library\Artifacts\7c\7c0ccd6fabc5d2889bc66fefadfd70c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\7c\7cac101b88ed91ec26257274cf5e917c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\7c\7cac101b88ed91ec26257274cf5e917c
+    projectPath: Library\Artifacts\7c\7cac101b88ed91ec26257274cf5e917c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\7d\7d6ba9255e8100501fb0b31e4b2bb982
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\7d\7d6ba9255e8100501fb0b31e4b2bb982
+    projectPath: Library\Artifacts\7d\7d6ba9255e8100501fb0b31e4b2bb982
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\7d\7ddcff90bc5071a570f034fa59224b7a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\7d\7ddcff90bc5071a570f034fa59224b7a
+    projectPath: Library\Artifacts\7d\7ddcff90bc5071a570f034fa59224b7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\7e\7e872028ee724809c67e3669467d99ee
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\7e\7e872028ee724809c67e3669467d99ee
+    projectPath: Library\Artifacts\7e\7e872028ee724809c67e3669467d99ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\7e\7eecaaa49d776b38ce9d5129ce26f2e7
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\7e\7eecaaa49d776b38ce9d5129ce26f2e7
+    projectPath: Library\Artifacts\7e\7eecaaa49d776b38ce9d5129ce26f2e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\80\80f42fda3e0076c59c600ec0b35a8e6b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\80\80f42fda3e0076c59c600ec0b35a8e6b
+    projectPath: Library\Artifacts\80\80f42fda3e0076c59c600ec0b35a8e6b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\81\8109dd851f2c33fc639e193c0162cf5c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\81\8109dd851f2c33fc639e193c0162cf5c
+    projectPath: Library\Artifacts\81\8109dd851f2c33fc639e193c0162cf5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\82\82abd0ead3a439d4b628638e986f0bfa
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\82\82abd0ead3a439d4b628638e986f0bfa
+    projectPath: Library\Artifacts\82\82abd0ead3a439d4b628638e986f0bfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\83\8399ec81fb7f7cb11039cdf76fa46be2
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\83\8399ec81fb7f7cb11039cdf76fa46be2
+    projectPath: Library\Artifacts\83\8399ec81fb7f7cb11039cdf76fa46be2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\84\84e381b97c7523b5fa3c32dbddf1759e
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\84\84e381b97c7523b5fa3c32dbddf1759e
+    projectPath: Library\Artifacts\84\84e381b97c7523b5fa3c32dbddf1759e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\85\85a2f4ad14f619f3ecb004af952499ef
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\85\85a2f4ad14f619f3ecb004af952499ef
+    projectPath: Library\Artifacts\85\85a2f4ad14f619f3ecb004af952499ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\87\878bb78b2ce979e60e5777762792615a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\87\878bb78b2ce979e60e5777762792615a
+    projectPath: Library\Artifacts\87\878bb78b2ce979e60e5777762792615a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\89\8993ab13de7b1fa0a879981126a61916
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\89\8993ab13de7b1fa0a879981126a61916
+    projectPath: Library\Artifacts\89\8993ab13de7b1fa0a879981126a61916
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\89\89be5e20020d4069728688c766d4955b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\89\89be5e20020d4069728688c766d4955b
+    projectPath: Library\Artifacts\89\89be5e20020d4069728688c766d4955b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\8b\8b8489d9d5036fef9498a08164a83ae9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\8b\8b8489d9d5036fef9498a08164a83ae9
+    projectPath: Library\Artifacts\8b\8b8489d9d5036fef9498a08164a83ae9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\8b\8b9d8aa95e606373487049e01f66d4ef
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\8b\8b9d8aa95e606373487049e01f66d4ef
+    projectPath: Library\Artifacts\8b\8b9d8aa95e606373487049e01f66d4ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\8e\8e3bee053f3f6d81b3a3f6630790e335
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\8e\8e3bee053f3f6d81b3a3f6630790e335
+    projectPath: Library\Artifacts\8e\8e3bee053f3f6d81b3a3f6630790e335
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\8f\8f1695e9e5f796b8883c8ad8eb9d12b5
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\8f\8f1695e9e5f796b8883c8ad8eb9d12b5
+    projectPath: Library\Artifacts\8f\8f1695e9e5f796b8883c8ad8eb9d12b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\8f\8f7ed0429186304db9640954591892e6
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\8f\8f7ed0429186304db9640954591892e6
+    projectPath: Library\Artifacts\8f\8f7ed0429186304db9640954591892e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\90\90693196d0a7515be37851231aae2023
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\90\90693196d0a7515be37851231aae2023
+    projectPath: Library\Artifacts\90\90693196d0a7515be37851231aae2023
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\93\933313aedaf807b21ad35ddd9b5b3377
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\93\933313aedaf807b21ad35ddd9b5b3377
+    projectPath: Library\Artifacts\93\933313aedaf807b21ad35ddd9b5b3377
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\93\934b11ea11940829272a3cdcf65d235a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\93\934b11ea11940829272a3cdcf65d235a
+    projectPath: Library\Artifacts\93\934b11ea11940829272a3cdcf65d235a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\94\9488cc8db1fedc62b91bcfe99fd6190c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\94\9488cc8db1fedc62b91bcfe99fd6190c
+    projectPath: Library\Artifacts\94\9488cc8db1fedc62b91bcfe99fd6190c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\95\9523775266d000e7affa75d7f07a347f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\95\9523775266d000e7affa75d7f07a347f
+    projectPath: Library\Artifacts\95\9523775266d000e7affa75d7f07a347f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\97\9795217cd0f6242ba9050011fecc8224
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\97\9795217cd0f6242ba9050011fecc8224
+    projectPath: Library\Artifacts\97\9795217cd0f6242ba9050011fecc8224
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\99\99353de2d0c0ee9d3f6ce2bd28964bdc
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\99\99353de2d0c0ee9d3f6ce2bd28964bdc
+    projectPath: Library\Artifacts\99\99353de2d0c0ee9d3f6ce2bd28964bdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\99\99d18d5d4d5a3d5379997d0dfd319299
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\99\99d18d5d4d5a3d5379997d0dfd319299
+    projectPath: Library\Artifacts\99\99d18d5d4d5a3d5379997d0dfd319299
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\99\99ed0c1a5873f84c01649c3db8f5b8f9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\99\99ed0c1a5873f84c01649c3db8f5b8f9
+    projectPath: Library\Artifacts\99\99ed0c1a5873f84c01649c3db8f5b8f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9a\9a73d999c85b8ff9f8476a94b064162d
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9a\9a73d999c85b8ff9f8476a94b064162d
+    projectPath: Library\Artifacts\9a\9a73d999c85b8ff9f8476a94b064162d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9a\9af4a6d73c529a57348efdf752070b11
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9a\9af4a6d73c529a57348efdf752070b11
+    projectPath: Library\Artifacts\9a\9af4a6d73c529a57348efdf752070b11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9b\9b1ee759bc8b8297eb26c3bde1b566c3
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9b\9b1ee759bc8b8297eb26c3bde1b566c3
+    projectPath: Library\Artifacts\9b\9b1ee759bc8b8297eb26c3bde1b566c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9b\9b31fc2f2fc990686d6dc6e318abc8bc
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9b\9b31fc2f2fc990686d6dc6e318abc8bc
+    projectPath: Library\Artifacts\9b\9b31fc2f2fc990686d6dc6e318abc8bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9b\9b59b1287005053a29932da03afc7720
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9b\9b59b1287005053a29932da03afc7720
+    projectPath: Library\Artifacts\9b\9b59b1287005053a29932da03afc7720
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9d\9d28fab01ea967b6ac2a58b2c67c820f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9d\9d28fab01ea967b6ac2a58b2c67c820f
+    projectPath: Library\Artifacts\9d\9d28fab01ea967b6ac2a58b2c67c820f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9e\9e29daae3f601f1179f60f6833f1e794
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9e\9e29daae3f601f1179f60f6833f1e794
+    projectPath: Library\Artifacts\9e\9e29daae3f601f1179f60f6833f1e794
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9e\9e9ddcba12f589c8bfe65a407942b46b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9e\9e9ddcba12f589c8bfe65a407942b46b
+    projectPath: Library\Artifacts\9e\9e9ddcba12f589c8bfe65a407942b46b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9f\9f0bee0e9f95d415621391e4c795ed08
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9f\9f0bee0e9f95d415621391e4c795ed08
+    projectPath: Library\Artifacts\9f\9f0bee0e9f95d415621391e4c795ed08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9f\9f2090feeadbfd6ea84ea14c44412944
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9f\9f2090feeadbfd6ea84ea14c44412944
+    projectPath: Library\Artifacts\9f\9f2090feeadbfd6ea84ea14c44412944
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9f\9f69d23454f0766fefa28ba9389ce9ab
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9f\9f69d23454f0766fefa28ba9389ce9ab
+    projectPath: Library\Artifacts\9f\9f69d23454f0766fefa28ba9389ce9ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\9f\9fac1591b8b41e8bf988e316ceed581d
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9f\9fac1591b8b41e8bf988e316ceed581d
+    projectPath: Library\Artifacts\9f\9fac1591b8b41e8bf988e316ceed581d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a2\a2242e30c20ddd6e8be8ff35c1ea1060
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a2\a2242e30c20ddd6e8be8ff35c1ea1060
+    projectPath: Library\Artifacts\a2\a2242e30c20ddd6e8be8ff35c1ea1060
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a2\a240efdcfbb0614f3bdb8bc5d81578b9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a2\a240efdcfbb0614f3bdb8bc5d81578b9
+    projectPath: Library\Artifacts\a2\a240efdcfbb0614f3bdb8bc5d81578b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a2\a24754adb72637ae0ce57106e336e827
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a2\a24754adb72637ae0ce57106e336e827
+    projectPath: Library\Artifacts\a2\a24754adb72637ae0ce57106e336e827
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a2\a24d3bd6b395924fc3b00c2ecf9f230a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a2\a24d3bd6b395924fc3b00c2ecf9f230a
+    projectPath: Library\Artifacts\a2\a24d3bd6b395924fc3b00c2ecf9f230a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a2\a252277f372e430b795c89a58c69869f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a2\a252277f372e430b795c89a58c69869f
+    projectPath: Library\Artifacts\a2\a252277f372e430b795c89a58c69869f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a2\a2d72afdc7758b669cd89898b3d89f60
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a2\a2d72afdc7758b669cd89898b3d89f60
+    projectPath: Library\Artifacts\a2\a2d72afdc7758b669cd89898b3d89f60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a2\a2e8f1e9fb788e6968573e2b980dc46c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a2\a2e8f1e9fb788e6968573e2b980dc46c
+    projectPath: Library\Artifacts\a2\a2e8f1e9fb788e6968573e2b980dc46c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a2\a2f449b50fb3a604224108a4935ca25a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a2\a2f449b50fb3a604224108a4935ca25a
+    projectPath: Library\Artifacts\a2\a2f449b50fb3a604224108a4935ca25a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a3\a37e392a971d2221f9e72a6a458785ed
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a3\a37e392a971d2221f9e72a6a458785ed
+    projectPath: Library\Artifacts\a3\a37e392a971d2221f9e72a6a458785ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a4\a4bf1e97ded7189183c93c74102cc839
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a4\a4bf1e97ded7189183c93c74102cc839
+    projectPath: Library\Artifacts\a4\a4bf1e97ded7189183c93c74102cc839
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a4\a4cae690724f8e6b74853528906461ec
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a4\a4cae690724f8e6b74853528906461ec
+    projectPath: Library\Artifacts\a4\a4cae690724f8e6b74853528906461ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a5\a50e1fd4e092e307fbe6cf8f8d45e0c0
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a5\a50e1fd4e092e307fbe6cf8f8d45e0c0
+    projectPath: Library\Artifacts\a5\a50e1fd4e092e307fbe6cf8f8d45e0c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a6\a69096ecec64e97e1612b4f5d1bad568
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a6\a69096ecec64e97e1612b4f5d1bad568
+    projectPath: Library\Artifacts\a6\a69096ecec64e97e1612b4f5d1bad568
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a7\a7bc6243c1bed925fa14b7ff50bbb3a4
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a7\a7bc6243c1bed925fa14b7ff50bbb3a4
+    projectPath: Library\Artifacts\a7\a7bc6243c1bed925fa14b7ff50bbb3a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a8\a847ad410644b92207b211109d3ebfb9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a8\a847ad410644b92207b211109d3ebfb9
+    projectPath: Library\Artifacts\a8\a847ad410644b92207b211109d3ebfb9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a8\a87f87c74664e1b2a2a81d83fe067483
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a8\a87f87c74664e1b2a2a81d83fe067483
+    projectPath: Library\Artifacts\a8\a87f87c74664e1b2a2a81d83fe067483
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\a9\a9e3a892da988e6932b4f753f5adb5ec
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a9\a9e3a892da988e6932b4f753f5adb5ec
+    projectPath: Library\Artifacts\a9\a9e3a892da988e6932b4f753f5adb5ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\aa\aab862458f1a9118e76dcdd75a96d934
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\aa\aab862458f1a9118e76dcdd75a96d934
+    projectPath: Library\Artifacts\aa\aab862458f1a9118e76dcdd75a96d934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ab\abdb02132cd68f4e9e3f9517716a6c65
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ab\abdb02132cd68f4e9e3f9517716a6c65
+    projectPath: Library\Artifacts\ab\abdb02132cd68f4e9e3f9517716a6c65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ac\aca94ecc26aead741c8e30202ed7380a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ac\aca94ecc26aead741c8e30202ed7380a
+    projectPath: Library\Artifacts\ac\aca94ecc26aead741c8e30202ed7380a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ac\acb701078a0733304a470997b88b3bf9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ac\acb701078a0733304a470997b88b3bf9
+    projectPath: Library\Artifacts\ac\acb701078a0733304a470997b88b3bf9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ad\ad56e1bc8c781edb831b0b1bf4b9acdb
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ad\ad56e1bc8c781edb831b0b1bf4b9acdb
+    projectPath: Library\Artifacts\ad\ad56e1bc8c781edb831b0b1bf4b9acdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ad\adade2bdb12fdb60257e1294072f6c12
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ad\adade2bdb12fdb60257e1294072f6c12
+    projectPath: Library\Artifacts\ad\adade2bdb12fdb60257e1294072f6c12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\ad\adf7e5172d6fb3aaa0d5ea737de530a7
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ad\adf7e5172d6fb3aaa0d5ea737de530a7
     projectPath: Library\Artifacts\ad\adf7e5172d6fb3aaa0d5ea737de530a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Pirate\Library\Artifacts\ae\aec9dd7b137a9e6101082b0aa850a205
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ae\aec9dd7b137a9e6101082b0aa850a205
+    projectPath: Library\Artifacts\ae\aec9dd7b137a9e6101082b0aa850a205
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -380,47 +1322,203 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\af\afaea09e88f2728fa1c5c31b27273c1b
     projectPath: Library\Artifacts\af\afaea09e88f2728fa1c5c31b27273c1b
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Pirate\Library\Artifacts\b0\b071ccfc0ae4ea8b441f5e77076be394
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b0\b071ccfc0ae4ea8b441f5e77076be394
+    projectPath: Library\Artifacts\b0\b071ccfc0ae4ea8b441f5e77076be394
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\af\afd8df96a598353d7ad2714676e0c8ff
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\af\afd8df96a598353d7ad2714676e0c8ff
-    projectPath: Library\Artifacts\af\afd8df96a598353d7ad2714676e0c8ff
+  - path: Pirate\Library\Artifacts\b0\b0743ce89d0ae96b9319cfa31c81699b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b0\b0743ce89d0ae96b9319cfa31c81699b
+    projectPath: Library\Artifacts\b0\b0743ce89d0ae96b9319cfa31c81699b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\b1\b1b65aef834a191d9eba611fc1ffb632
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b1\b1b65aef834a191d9eba611fc1ffb632
+    projectPath: Library\Artifacts\b1\b1b65aef834a191d9eba611fc1ffb632
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\b2\b2c18a94ea1e415afcded174ed784dcd
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b2\b2c18a94ea1e415afcded174ed784dcd
+    projectPath: Library\Artifacts\b2\b2c18a94ea1e415afcded174ed784dcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\b3\b30de09f8e05f040b35cef6ac470af01
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b3\b30de09f8e05f040b35cef6ac470af01
+    projectPath: Library\Artifacts\b3\b30de09f8e05f040b35cef6ac470af01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\b3\b37db3d93ae929eccb3a6e70cd91531f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b3\b37db3d93ae929eccb3a6e70cd91531f
+    projectPath: Library\Artifacts\b3\b37db3d93ae929eccb3a6e70cd91531f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\b3\b38f993137fe1068f33d54d96e4163bf
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b3\b38f993137fe1068f33d54d96e4163bf
+    projectPath: Library\Artifacts\b3\b38f993137fe1068f33d54d96e4163bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\b4\b44d2445f78c6b9cdefc358aec239e0e
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b4\b44d2445f78c6b9cdefc358aec239e0e
+    projectPath: Library\Artifacts\b4\b44d2445f78c6b9cdefc358aec239e0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\b4\b44f2c78d35569c84c964cd90fa5498c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b4\b44f2c78d35569c84c964cd90fa5498c
+    projectPath: Library\Artifacts\b4\b44f2c78d35569c84c964cd90fa5498c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\b3\b3ae1af5b8d81996fd500a968497256e
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b3\b3ae1af5b8d81996fd500a968497256e
-    projectPath: Library\Artifacts\b3\b3ae1af5b8d81996fd500a968497256e
+  - path: Pirate\Library\Artifacts\b5\b535d0cd08d6bac7ccd6ed4dfb7da313
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b5\b535d0cd08d6bac7ccd6ed4dfb7da313
+    projectPath: Library\Artifacts\b5\b535d0cd08d6bac7ccd6ed4dfb7da313
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\b7\b7c439d98cb8e4f04771d8083b3b8272
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b7\b7c439d98cb8e4f04771d8083b3b8272
-    projectPath: Library\Artifacts\b7\b7c439d98cb8e4f04771d8083b3b8272
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\b5\b5f0d4a8f14d289473d50be45c90c480
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b5\b5f0d4a8f14d289473d50be45c90c480
+    projectPath: Library\Artifacts\b5\b5f0d4a8f14d289473d50be45c90c480
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\b6\b66ffde69823f9c47c1f177fdc23c180
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b6\b66ffde69823f9c47c1f177fdc23c180
+    projectPath: Library\Artifacts\b6\b66ffde69823f9c47c1f177fdc23c180
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\b8\b82768a4de07e2d53c4b108577bf1560
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b8\b82768a4de07e2d53c4b108577bf1560
+    projectPath: Library\Artifacts\b8\b82768a4de07e2d53c4b108577bf1560
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\b9\b9267d69f9d10ba8ecba4166e9fd9ab3
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b9\b9267d69f9d10ba8ecba4166e9fd9ab3
     projectPath: Library\Artifacts\b9\b9267d69f9d10ba8ecba4166e9fd9ab3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\ba\ba6564ff7bde06de4677a1143b4b9ae4
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ba\ba6564ff7bde06de4677a1143b4b9ae4
-    projectPath: Library\Artifacts\ba\ba6564ff7bde06de4677a1143b4b9ae4
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\ba\bab605f89b91cd9fa7cbfc0aa4823a44
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ba\bab605f89b91cd9fa7cbfc0aa4823a44
-    projectPath: Library\Artifacts\ba\bab605f89b91cd9fa7cbfc0aa4823a44
+  - path: Pirate\Library\Artifacts\b9\b9b6a7de45712547419e537ee7cddb51
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b9\b9b6a7de45712547419e537ee7cddb51
+    projectPath: Library\Artifacts\b9\b9b6a7de45712547419e537ee7cddb51
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\c6\c638b470c99cca0fc03bb1452a45d8df
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c6\c638b470c99cca0fc03bb1452a45d8df
-    projectPath: Library\Artifacts\c6\c638b470c99cca0fc03bb1452a45d8df
+  - path: Pirate\Library\Artifacts\ba\baf4e195a9059b8617ca082c0abb432b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ba\baf4e195a9059b8617ca082c0abb432b
+    projectPath: Library\Artifacts\ba\baf4e195a9059b8617ca082c0abb432b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\bb\bb0e58c716b7ebe7f6eea576ef94f531
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\bb\bb0e58c716b7ebe7f6eea576ef94f531
+    projectPath: Library\Artifacts\bb\bb0e58c716b7ebe7f6eea576ef94f531
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\bd\bdf6c231ccec8a517fba3a1771a968ac
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\bd\bdf6c231ccec8a517fba3a1771a968ac
+    projectPath: Library\Artifacts\bd\bdf6c231ccec8a517fba3a1771a968ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\be\becb0b9d90434066d631ffa4dcfb334a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\be\becb0b9d90434066d631ffa4dcfb334a
+    projectPath: Library\Artifacts\be\becb0b9d90434066d631ffa4dcfb334a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\bf\bf8516091452cec12f3ac1bc315d61f3
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\bf\bf8516091452cec12f3ac1bc315d61f3
+    projectPath: Library\Artifacts\bf\bf8516091452cec12f3ac1bc315d61f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c3\c38bf9876d63623dba69c59186bae44f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c3\c38bf9876d63623dba69c59186bae44f
+    projectPath: Library\Artifacts\c3\c38bf9876d63623dba69c59186bae44f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c3\c3ad386f1dde0766dc4d974d48be7e4f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c3\c3ad386f1dde0766dc4d974d48be7e4f
+    projectPath: Library\Artifacts\c3\c3ad386f1dde0766dc4d974d48be7e4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c3\c3efa500ed057a2beb4435487d7abc7f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c3\c3efa500ed057a2beb4435487d7abc7f
+    projectPath: Library\Artifacts\c3\c3efa500ed057a2beb4435487d7abc7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c4\c4e0b472c373c18d0613df7191d0e41a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c4\c4e0b472c373c18d0613df7191d0e41a
+    projectPath: Library\Artifacts\c4\c4e0b472c373c18d0613df7191d0e41a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c5\c52ad7b0877876d4cfa1516b36dc2c66
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c5\c52ad7b0877876d4cfa1516b36dc2c66
+    projectPath: Library\Artifacts\c5\c52ad7b0877876d4cfa1516b36dc2c66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c7\c78624685adb189babf3bac6847a3e6d
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c7\c78624685adb189babf3bac6847a3e6d
+    projectPath: Library\Artifacts\c7\c78624685adb189babf3bac6847a3e6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c7\c79396625cbc8b09297e8a860acee377
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c7\c79396625cbc8b09297e8a860acee377
+    projectPath: Library\Artifacts\c7\c79396625cbc8b09297e8a860acee377
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c8\c83264e4c49e9088a48c94fe0b087506
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c8\c83264e4c49e9088a48c94fe0b087506
+    projectPath: Library\Artifacts\c8\c83264e4c49e9088a48c94fe0b087506
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c8\c875a7436859cc826ecc39e6e26ef75d
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c8\c875a7436859cc826ecc39e6e26ef75d
+    projectPath: Library\Artifacts\c8\c875a7436859cc826ecc39e6e26ef75d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c8\c8cf27d08467689711cfc4d18e20e244
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c8\c8cf27d08467689711cfc4d18e20e244
+    projectPath: Library\Artifacts\c8\c8cf27d08467689711cfc4d18e20e244
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\c9\c929c8988eabf3b2ce443851c40d9dd4
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c9\c929c8988eabf3b2ce443851c40d9dd4
+    projectPath: Library\Artifacts\c9\c929c8988eabf3b2ce443851c40d9dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ca\caaaa87e49a053039e899ef08a53ff65
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ca\caaaa87e49a053039e899ef08a53ff65
+    projectPath: Library\Artifacts\ca\caaaa87e49a053039e899ef08a53ff65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ca\cabfb37ba73e1f3e69227ad7d9e76ccf
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ca\cabfb37ba73e1f3e69227ad7d9e76ccf
+    projectPath: Library\Artifacts\ca\cabfb37ba73e1f3e69227ad7d9e76ccf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -428,11 +1526,41 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\cb\cb5c712a5717dd37c7fc7e85b8480126
     projectPath: Library\Artifacts\cb\cb5c712a5717dd37c7fc7e85b8480126
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Pirate\Library\Artifacts\cc\cc4663c3d62150f59b8d6d7775b00f9e
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\cc\cc4663c3d62150f59b8d6d7775b00f9e
+    projectPath: Library\Artifacts\cc\cc4663c3d62150f59b8d6d7775b00f9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\cc\cc81cd13373227af8850c42d68b2c015
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\cc\cc81cd13373227af8850c42d68b2c015
+    projectPath: Library\Artifacts\cc\cc81cd13373227af8850c42d68b2c015
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ce\cebd3c01a3208ca89e3703795c44a033
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ce\cebd3c01a3208ca89e3703795c44a033
+    projectPath: Library\Artifacts\ce\cebd3c01a3208ca89e3703795c44a033
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Pirate\Library\Artifacts\ce\ced768d96473916147d53287034a5d6f
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ce\ced768d96473916147d53287034a5d6f
     projectPath: Library\Artifacts\ce\ced768d96473916147d53287034a5d6f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Pirate\Library\Artifacts\cf\cf73d6876800eb57e09e80fbe9107f3a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\cf\cf73d6876800eb57e09e80fbe9107f3a
+    projectPath: Library\Artifacts\cf\cf73d6876800eb57e09e80fbe9107f3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\d0\d0e82437165abd449500f15af49f222f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d0\d0e82437165abd449500f15af49f222f
+    projectPath: Library\Artifacts\d0\d0e82437165abd449500f15af49f222f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -440,122 +1568,404 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d1\d147ab6e5a60cbaa9f99221955aab37d
     projectPath: Library\Artifacts\d1\d147ab6e5a60cbaa9f99221955aab37d
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Pirate\Library\Artifacts\d1\d1afdc3d1cfcba26d265278adf69abac
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d1\d1afdc3d1cfcba26d265278adf69abac
+    projectPath: Library\Artifacts\d1\d1afdc3d1cfcba26d265278adf69abac
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Pirate\Library\Artifacts\d2\d2c59eb169bae6d57edac9dc7c37f972
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d2\d2c59eb169bae6d57edac9dc7c37f972
     projectPath: Library\Artifacts\d2\d2c59eb169bae6d57edac9dc7c37f972
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\d5\d5e373d9b50079ab49c121fd872ca32a
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d5\d5e373d9b50079ab49c121fd872ca32a
-    projectPath: Library\Artifacts\d5\d5e373d9b50079ab49c121fd872ca32a
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\d7\d75c07b271619a493a54fdc8cf17adb6
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d7\d75c07b271619a493a54fdc8cf17adb6
-    projectPath: Library\Artifacts\d7\d75c07b271619a493a54fdc8cf17adb6
+  - path: Pirate\Library\Artifacts\d2\d2f52522594b3b8eaa4e5fae755657a6
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d2\d2f52522594b3b8eaa4e5fae755657a6
+    projectPath: Library\Artifacts\d2\d2f52522594b3b8eaa4e5fae755657a6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\da\da0957c6bf9f834aed2275b680476431
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\da\da0957c6bf9f834aed2275b680476431
-    projectPath: Library\Artifacts\da\da0957c6bf9f834aed2275b680476431
+  - path: Pirate\Library\Artifacts\d4\d4f09bb99d008ccf45125e8821cab1cc
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d4\d4f09bb99d008ccf45125e8821cab1cc
+    projectPath: Library\Artifacts\d4\d4f09bb99d008ccf45125e8821cab1cc
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\dd\dd519b1ce49c83c01045542b7cc10693
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\dd\dd519b1ce49c83c01045542b7cc10693
-    projectPath: Library\Artifacts\dd\dd519b1ce49c83c01045542b7cc10693
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\d7\d7001662568b2c38090c3b8683663ee7
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d7\d7001662568b2c38090c3b8683663ee7
+    projectPath: Library\Artifacts\d7\d7001662568b2c38090c3b8683663ee7
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\dd\dda57ed768b05f794a2b63e6e5c69417
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\dd\dda57ed768b05f794a2b63e6e5c69417
-    projectPath: Library\Artifacts\dd\dda57ed768b05f794a2b63e6e5c69417
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\d7\d79105278c79b7ea1ee075bdab7c5fda
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d7\d79105278c79b7ea1ee075bdab7c5fda
+    projectPath: Library\Artifacts\d7\d79105278c79b7ea1ee075bdab7c5fda
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\d8\d8fad59cd963caf23cbd91f5c42c180b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d8\d8fad59cd963caf23cbd91f5c42c180b
+    projectPath: Library\Artifacts\d8\d8fad59cd963caf23cbd91f5c42c180b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\d9\d92ed65206c77f09932ddabf97900bd5
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d9\d92ed65206c77f09932ddabf97900bd5
+    projectPath: Library\Artifacts\d9\d92ed65206c77f09932ddabf97900bd5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\d9\d999ab0e874147e50e8fefbb316cc600
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d9\d999ab0e874147e50e8fefbb316cc600
+    projectPath: Library\Artifacts\d9\d999ab0e874147e50e8fefbb316cc600
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\da\da74b6f8dd8a9ba78dd33844f0e07a8a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\da\da74b6f8dd8a9ba78dd33844f0e07a8a
+    projectPath: Library\Artifacts\da\da74b6f8dd8a9ba78dd33844f0e07a8a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\db\db1eaebf2922b2a999863649d97383f6
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\db\db1eaebf2922b2a999863649d97383f6
+    projectPath: Library\Artifacts\db\db1eaebf2922b2a999863649d97383f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\dc\dcdbd3515c9ee8a1873d416865704329
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\dc\dcdbd3515c9ee8a1873d416865704329
+    projectPath: Library\Artifacts\dc\dcdbd3515c9ee8a1873d416865704329
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\dc\dcf273f95c3ea8a080bc75bce2335dfe
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\dc\dcf273f95c3ea8a080bc75bce2335dfe
+    projectPath: Library\Artifacts\dc\dcf273f95c3ea8a080bc75bce2335dfe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\dd\dd3859a04b6ae8522783ee5178c10d60
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\dd\dd3859a04b6ae8522783ee5178c10d60
+    projectPath: Library\Artifacts\dd\dd3859a04b6ae8522783ee5178c10d60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\dd\dd5fcaf31774a783fa698bd37b1b2547
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\dd\dd5fcaf31774a783fa698bd37b1b2547
+    projectPath: Library\Artifacts\dd\dd5fcaf31774a783fa698bd37b1b2547
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\dd\ddba35ecef8bb3b04f4fc0c560ab3f24
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\dd\ddba35ecef8bb3b04f4fc0c560ab3f24
+    projectPath: Library\Artifacts\dd\ddba35ecef8bb3b04f4fc0c560ab3f24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\dd\dde235344e4b3081cd120e6aad52c960
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\dd\dde235344e4b3081cd120e6aad52c960
     projectPath: Library\Artifacts\dd\dde235344e4b3081cd120e6aad52c960
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\de\de0c3d60f413867745ea35b10151f63e
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\de\de0c3d60f413867745ea35b10151f63e
-    projectPath: Library\Artifacts\de\de0c3d60f413867745ea35b10151f63e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\de\de1aa837f9fe83452440bb8d9b4ae565
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\de\de1aa837f9fe83452440bb8d9b4ae565
-    projectPath: Library\Artifacts\de\de1aa837f9fe83452440bb8d9b4ae565
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\df\df8a244ee11fcdd94e8970d2a4d43bd3
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\df\df8a244ee11fcdd94e8970d2a4d43bd3
-    projectPath: Library\Artifacts\df\df8a244ee11fcdd94e8970d2a4d43bd3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\e1\e193f6392be8bd5bf5de9a6cb26bd443
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e1\e193f6392be8bd5bf5de9a6cb26bd443
-    projectPath: Library\Artifacts\e1\e193f6392be8bd5bf5de9a6cb26bd443
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\e1\e1bafa88a86961619d595467394cd4c2
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e1\e1bafa88a86961619d595467394cd4c2
-    projectPath: Library\Artifacts\e1\e1bafa88a86961619d595467394cd4c2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\e2\e2d099026358755c413a2ff9eb5399f8
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e2\e2d099026358755c413a2ff9eb5399f8
-    projectPath: Library\Artifacts\e2\e2d099026358755c413a2ff9eb5399f8
+  - path: Pirate\Library\Artifacts\de\de6625e9300522b98b60124312ced896
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\de\de6625e9300522b98b60124312ced896
+    projectPath: Library\Artifacts\de\de6625e9300522b98b60124312ced896
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\e4\e48d23f5e8a4c856473bad6c46106b38
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e4\e48d23f5e8a4c856473bad6c46106b38
-    projectPath: Library\Artifacts\e4\e48d23f5e8a4c856473bad6c46106b38
+  - path: Pirate\Library\Artifacts\de\de686659d1c2710d13925139d9f5a3bb
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\de\de686659d1c2710d13925139d9f5a3bb
+    projectPath: Library\Artifacts\de\de686659d1c2710d13925139d9f5a3bb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\f8\f8045cd36cb71228b3288eee4743bf2a
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f8\f8045cd36cb71228b3288eee4743bf2a
-    projectPath: Library\Artifacts\f8\f8045cd36cb71228b3288eee4743bf2a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\f8\f86d0acdab28f010536737d69064d8ae
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f8\f86d0acdab28f010536737d69064d8ae
-    projectPath: Library\Artifacts\f8\f86d0acdab28f010536737d69064d8ae
+  - path: Pirate\Library\Artifacts\de\decbb8e896fba05bad310ce26ad013f5
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\de\decbb8e896fba05bad310ce26ad013f5
+    projectPath: Library\Artifacts\de\decbb8e896fba05bad310ce26ad013f5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\ff\ff7110968b0677a3301020bc53371da2
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ff\ff7110968b0677a3301020bc53371da2
-    projectPath: Library\Artifacts\ff\ff7110968b0677a3301020bc53371da2
+  - path: Pirate\Library\Artifacts\de\deec01becc50b300cfb2b0b230324b9e
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\de\deec01becc50b300cfb2b0b230324b9e
+    projectPath: Library\Artifacts\de\deec01becc50b300cfb2b0b230324b9e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\ff\ff7b4f76ae9a5925365278de6c8d5d56
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ff\ff7b4f76ae9a5925365278de6c8d5d56
-    projectPath: Library\Artifacts\ff\ff7b4f76ae9a5925365278de6c8d5d56
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\df\dfcbd8fc04a1d46825234e5281c4638c
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\df\dfcbd8fc04a1d46825234e5281c4638c
+    projectPath: Library\Artifacts\df\dfcbd8fc04a1d46825234e5281c4638c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\ff\ff7f265e0593803829703bb3e1600a9e
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ff\ff7f265e0593803829703bb3e1600a9e
-    projectPath: Library\Artifacts\ff\ff7f265e0593803829703bb3e1600a9e
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\e0\e0137db7db01a91e63f0fb938b3bfb54
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e0\e0137db7db01a91e63f0fb938b3bfb54
+    projectPath: Library\Artifacts\e0\e0137db7db01a91e63f0fb938b3bfb54
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\e0\e096e9718d26c8237845270352f5aff0
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e0\e096e9718d26c8237845270352f5aff0
+    projectPath: Library\Artifacts\e0\e096e9718d26c8237845270352f5aff0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\e3\e323b83e39a0c6d01c8f344457d23d82
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e3\e323b83e39a0c6d01c8f344457d23d82
+    projectPath: Library\Artifacts\e3\e323b83e39a0c6d01c8f344457d23d82
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\e3\e3e211743c3d0bcb19878eb939211cc6
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e3\e3e211743c3d0bcb19878eb939211cc6
+    projectPath: Library\Artifacts\e3\e3e211743c3d0bcb19878eb939211cc6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\e4\e470b2cbc624e9586766f898eae1b2a0
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e4\e470b2cbc624e9586766f898eae1b2a0
+    projectPath: Library\Artifacts\e4\e470b2cbc624e9586766f898eae1b2a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\e6\e62f97cc4c2b1f516026b441c7ea1c2e
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e6\e62f97cc4c2b1f516026b441c7ea1c2e
+    projectPath: Library\Artifacts\e6\e62f97cc4c2b1f516026b441c7ea1c2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\e6\e67db90a72afeb366a9533b62e7ee448
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e6\e67db90a72afeb366a9533b62e7ee448
+    projectPath: Library\Artifacts\e6\e67db90a72afeb366a9533b62e7ee448
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\e7\e7cedce120efa8c539cbccde39996acf
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e7\e7cedce120efa8c539cbccde39996acf
+    projectPath: Library\Artifacts\e7\e7cedce120efa8c539cbccde39996acf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\e8\e83446aadcab8f29ae6d467a3bcb9d61
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e8\e83446aadcab8f29ae6d467a3bcb9d61
+    projectPath: Library\Artifacts\e8\e83446aadcab8f29ae6d467a3bcb9d61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\e8\e880c19133fdec501228ce548cd85b6d
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e8\e880c19133fdec501228ce548cd85b6d
+    projectPath: Library\Artifacts\e8\e880c19133fdec501228ce548cd85b6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ea\ea1ad4f5ec24f498c3ca4db701d4a4e7
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ea\ea1ad4f5ec24f498c3ca4db701d4a4e7
+    projectPath: Library\Artifacts\ea\ea1ad4f5ec24f498c3ca4db701d4a4e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ea\eaba08ff0d0495086c28ab02a041a483
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ea\eaba08ff0d0495086c28ab02a041a483
+    projectPath: Library\Artifacts\ea\eaba08ff0d0495086c28ab02a041a483
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ea\eaec38c40edcc966ca1173219568ec16
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ea\eaec38c40edcc966ca1173219568ec16
+    projectPath: Library\Artifacts\ea\eaec38c40edcc966ca1173219568ec16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\eb\eb111132997e5b004e1173dcbba3cc05
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\eb\eb111132997e5b004e1173dcbba3cc05
+    projectPath: Library\Artifacts\eb\eb111132997e5b004e1173dcbba3cc05
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\eb\ebbe70d9153889f33182fd70b5475d06
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\eb\ebbe70d9153889f33182fd70b5475d06
+    projectPath: Library\Artifacts\eb\ebbe70d9153889f33182fd70b5475d06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ec\ecde34d8c61b5f82a8d33072348f7fdb
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ec\ecde34d8c61b5f82a8d33072348f7fdb
+    projectPath: Library\Artifacts\ec\ecde34d8c61b5f82a8d33072348f7fdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ed\ed47555313c1cab1a38345c89e116127
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ed\ed47555313c1cab1a38345c89e116127
+    projectPath: Library\Artifacts\ed\ed47555313c1cab1a38345c89e116127
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ed\ed8c1ac795813669d0f3b0f497334e81
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ed\ed8c1ac795813669d0f3b0f497334e81
+    projectPath: Library\Artifacts\ed\ed8c1ac795813669d0f3b0f497334e81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ee\ee06b45f8a9f1a5d9df3824e46e7d81a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ee\ee06b45f8a9f1a5d9df3824e46e7d81a
+    projectPath: Library\Artifacts\ee\ee06b45f8a9f1a5d9df3824e46e7d81a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ee\ee0bd0d39a790cd9d01f0b86951ce568
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ee\ee0bd0d39a790cd9d01f0b86951ce568
+    projectPath: Library\Artifacts\ee\ee0bd0d39a790cd9d01f0b86951ce568
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ee\ee7e72086a2dbaf518bd523778037990
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ee\ee7e72086a2dbaf518bd523778037990
+    projectPath: Library\Artifacts\ee\ee7e72086a2dbaf518bd523778037990
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ef\efc2194242f53a496efcc9f1ed8443bb
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ef\efc2194242f53a496efcc9f1ed8443bb
+    projectPath: Library\Artifacts\ef\efc2194242f53a496efcc9f1ed8443bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f0\f0c4bf148373a348c8642b3cfe0cc9c2
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f0\f0c4bf148373a348c8642b3cfe0cc9c2
+    projectPath: Library\Artifacts\f0\f0c4bf148373a348c8642b3cfe0cc9c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f2\f225b5d8f7e7d92bdcadec0884d96b20
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f2\f225b5d8f7e7d92bdcadec0884d96b20
+    projectPath: Library\Artifacts\f2\f225b5d8f7e7d92bdcadec0884d96b20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f2\f2325cbded14314c2942ef6a1edcca8b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f2\f2325cbded14314c2942ef6a1edcca8b
+    projectPath: Library\Artifacts\f2\f2325cbded14314c2942ef6a1edcca8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f3\f327cdc3b6ccfe510d90778e15a65e4a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f3\f327cdc3b6ccfe510d90778e15a65e4a
+    projectPath: Library\Artifacts\f3\f327cdc3b6ccfe510d90778e15a65e4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f3\f3a29d2ccf7fe7ece7edad4c10deb670
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f3\f3a29d2ccf7fe7ece7edad4c10deb670
+    projectPath: Library\Artifacts\f3\f3a29d2ccf7fe7ece7edad4c10deb670
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f6\f636e670946ee8a9e9b922ab5ab99904
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f6\f636e670946ee8a9e9b922ab5ab99904
+    projectPath: Library\Artifacts\f6\f636e670946ee8a9e9b922ab5ab99904
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f6\f63c350a5490c4495d45b9167584eb28
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f6\f63c350a5490c4495d45b9167584eb28
+    projectPath: Library\Artifacts\f6\f63c350a5490c4495d45b9167584eb28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f7\f73f6e29251033302bbc43c422f16b96
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f7\f73f6e29251033302bbc43c422f16b96
+    projectPath: Library\Artifacts\f7\f73f6e29251033302bbc43c422f16b96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f8\f84d3128b3de446bbf5ade7ee603a031
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f8\f84d3128b3de446bbf5ade7ee603a031
+    projectPath: Library\Artifacts\f8\f84d3128b3de446bbf5ade7ee603a031
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f8\f8a4eb1dba11aafa69e1a2e06d9a3db8
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f8\f8a4eb1dba11aafa69e1a2e06d9a3db8
+    projectPath: Library\Artifacts\f8\f8a4eb1dba11aafa69e1a2e06d9a3db8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f8\f8c19baf3cae096b933656c46c961f38
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f8\f8c19baf3cae096b933656c46c961f38
+    projectPath: Library\Artifacts\f8\f8c19baf3cae096b933656c46c961f38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\f9\f902eec092826112191010f14fca3792
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f9\f902eec092826112191010f14fca3792
+    projectPath: Library\Artifacts\f9\f902eec092826112191010f14fca3792
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\fa\fac217b07f3009af705e942c013a8b60
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fa\fac217b07f3009af705e942c013a8b60
+    projectPath: Library\Artifacts\fa\fac217b07f3009af705e942c013a8b60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\fb\fb4ac045f4434461c2bc0904007c6eb9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fb\fb4ac045f4434461c2bc0904007c6eb9
+    projectPath: Library\Artifacts\fb\fb4ac045f4434461c2bc0904007c6eb9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\fc\fc4cc442578aef42aae54aa663ff6673
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fc\fc4cc442578aef42aae54aa663ff6673
+    projectPath: Library\Artifacts\fc\fc4cc442578aef42aae54aa663ff6673
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\fc\fc69ae12634d0a3ac7b71b9403df7d5a
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fc\fc69ae12634d0a3ac7b71b9403df7d5a
+    projectPath: Library\Artifacts\fc\fc69ae12634d0a3ac7b71b9403df7d5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\fc\fcb3c72986675541a6a8ac51cdaaef71
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fc\fcb3c72986675541a6a8ac51cdaaef71
+    projectPath: Library\Artifacts\fc\fcb3c72986675541a6a8ac51cdaaef71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\fd\fd26ae41f4050ccbc463a21d17752968
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fd\fd26ae41f4050ccbc463a21d17752968
+    projectPath: Library\Artifacts\fd\fd26ae41f4050ccbc463a21d17752968
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\fd\fdbc152d9fc7f29628a6ab494ebf9113
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fd\fdbc152d9fc7f29628a6ab494ebf9113
+    projectPath: Library\Artifacts\fd\fdbc152d9fc7f29628a6ab494ebf9113
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\fe\fe2b827015af4ad30e7705b171c9f133
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fe\fe2b827015af4ad30e7705b171c9f133
+    projectPath: Library\Artifacts\fe\fe2b827015af4ad30e7705b171c9f133
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\fe\fe6ffad79ee5be645294a1394f1852dc
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fe\fe6ffad79ee5be645294a1394f1852dc
+    projectPath: Library\Artifacts\fe\fe6ffad79ee5be645294a1394f1852dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Library\Artifacts\ff\ff36ac05aeb9a1c031e36752f8ba353b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ff\ff36ac05aeb9a1c031e36752f8ba353b
+    projectPath: Library\Artifacts\ff\ff36ac05aeb9a1c031e36752f8ba353b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Pirate\Library\CurrentLayout-default.dwlt
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
@@ -568,12 +1978,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\expandedItems
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Pirate\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -610,12 +2014,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pirate\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
-    projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Pirate\Library\InspectorExpandedItems.asset
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
@@ -628,27 +2026,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pirate\Library\ShaderCache\4\48301d6643083278e0d442140dec92f3.bin
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\ShaderCache\4\48301d6643083278e0d442140dec92f3.bin
-    projectPath: Library\ShaderCache\4\48301d6643083278e0d442140dec92f3.bin
+  - path: Pirate\Library\ShaderCache\7\792070d435da711f052f033d8bbae1f0.bin
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\ShaderCache\7\792070d435da711f052f033d8bbae1f0.bin
+    projectPath: Library\ShaderCache\7\792070d435da711f052f033d8bbae1f0.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\ShaderCache\7\78ef5443ceaa6b06d8b768a8454e25b2.bin
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\ShaderCache\7\78ef5443ceaa6b06d8b768a8454e25b2.bin
-    projectPath: Library\ShaderCache\7\78ef5443ceaa6b06d8b768a8454e25b2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\ShaderCache\8\8385e164e1f99bdd9e31006a44323949.bin
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\ShaderCache\8\8385e164e1f99bdd9e31006a44323949.bin
-    projectPath: Library\ShaderCache\8\8385e164e1f99bdd9e31006a44323949.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\ShaderCache\a\a700ff3fdcfafe8f4f1cd93b1e70c3cc.bin
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\ShaderCache\a\a700ff3fdcfafe8f4f1cd93b1e70c3cc.bin
-    projectPath: Library\ShaderCache\a\a700ff3fdcfafe8f4f1cd93b1e70c3cc.bin
+  - path: Pirate\Library\ShaderCache\d\d2d535919dbc8bf1ee3752d5e60ce084.bin
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\ShaderCache\d\d2d535919dbc8bf1ee3752d5e60ce084.bin
+    projectPath: Library\ShaderCache\d\d2d535919dbc8bf1ee3752d5e60ce084.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -670,18 +2056,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pirate\Library\StateCache\PrefabStageHierarchy\9e\9eeaed84bec2e4491b350f991e1546b6.json
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\StateCache\PrefabStageHierarchy\9e\9eeaed84bec2e4491b350f991e1546b6.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\9e\9eeaed84bec2e4491b350f991e1546b6.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\StateCache\SceneView\6a\6ac69a9f82fde4b6c0bcb46cd2ea8a9e.json
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\StateCache\SceneView\6a\6ac69a9f82fde4b6c0bcb46cd2ea8a9e.json
-    projectPath: Library\StateCache\SceneView\6a\6ac69a9f82fde4b6c0bcb46cd2ea8a9e.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Pirate\Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
     projectPath: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
@@ -718,63 +2092,105 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Temp\UnityTempFile-0daf0c70ea29be34187bd7df738b6fef
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-0daf0c70ea29be34187bd7df738b6fef
-    projectPath: Temp\UnityTempFile-0daf0c70ea29be34187bd7df738b6fef
+  - path: Pirate\Temp\UnityTempFile-32473d1bbed3abc42b84b95b2c5bf1d4
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-32473d1bbed3abc42b84b95b2c5bf1d4
+    projectPath: Temp\UnityTempFile-32473d1bbed3abc42b84b95b2c5bf1d4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Temp\UnityTempFile-182808d44169dbc4d8befa500d57fd71
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-182808d44169dbc4d8befa500d57fd71
-    projectPath: Temp\UnityTempFile-182808d44169dbc4d8befa500d57fd71
+  - path: Pirate\Temp\UnityTempFile-38be75a1cadd1834282607d18fab777b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-38be75a1cadd1834282607d18fab777b
+    projectPath: Temp\UnityTempFile-38be75a1cadd1834282607d18fab777b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Temp\UnityTempFile-20c579afcb151cd46a16fe83c3f6e1ca
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-20c579afcb151cd46a16fe83c3f6e1ca
-    projectPath: Temp\UnityTempFile-20c579afcb151cd46a16fe83c3f6e1ca
+  - path: Pirate\Temp\UnityTempFile-39fd69d83a012b9438063d678370fca7
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-39fd69d83a012b9438063d678370fca7
+    projectPath: Temp\UnityTempFile-39fd69d83a012b9438063d678370fca7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Temp\UnityTempFile-6fdc18312959f464880b299bc8b9b688
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-6fdc18312959f464880b299bc8b9b688
-    projectPath: Temp\UnityTempFile-6fdc18312959f464880b299bc8b9b688
+  - path: Pirate\Temp\UnityTempFile-3fb37cf2f38eed042b52ea14a30f4564
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-3fb37cf2f38eed042b52ea14a30f4564
+    projectPath: Temp\UnityTempFile-3fb37cf2f38eed042b52ea14a30f4564
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Temp\UnityTempFile-812bbe293dcee4c40a4e1bdbfd1a09bd
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-812bbe293dcee4c40a4e1bdbfd1a09bd
-    projectPath: Temp\UnityTempFile-812bbe293dcee4c40a4e1bdbfd1a09bd
+  - path: Pirate\Temp\UnityTempFile-4007063efcb3cb84d805f489917b5c36
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-4007063efcb3cb84d805f489917b5c36
+    projectPath: Temp\UnityTempFile-4007063efcb3cb84d805f489917b5c36
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Temp\UnityTempFile-910bb9e9e02beb54f999afa11fa86890
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-910bb9e9e02beb54f999afa11fa86890
-    projectPath: Temp\UnityTempFile-910bb9e9e02beb54f999afa11fa86890
+  - path: Pirate\Temp\UnityTempFile-419260c035189f24abcd0a3a2c4c29f4
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-419260c035189f24abcd0a3a2c4c29f4
+    projectPath: Temp\UnityTempFile-419260c035189f24abcd0a3a2c4c29f4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Temp\UnityTempFile-a26477c547cc35f4690d6a0ac0bab850
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-a26477c547cc35f4690d6a0ac0bab850
-    projectPath: Temp\UnityTempFile-a26477c547cc35f4690d6a0ac0bab850
+  - path: Pirate\Temp\UnityTempFile-5aa22f4bb346f3b428bc9be0aa5f11a9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-5aa22f4bb346f3b428bc9be0aa5f11a9
+    projectPath: Temp\UnityTempFile-5aa22f4bb346f3b428bc9be0aa5f11a9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Temp\UnityTempFile-dc7bca673c60e524585ce04c89be089c
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-dc7bca673c60e524585ce04c89be089c
-    projectPath: Temp\UnityTempFile-dc7bca673c60e524585ce04c89be089c
+  - path: Pirate\Temp\UnityTempFile-81a343324c3a0b645a91733cc6c4b473
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-81a343324c3a0b645a91733cc6c4b473
+    projectPath: Temp\UnityTempFile-81a343324c3a0b645a91733cc6c4b473
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Temp\UnityTempFile-eeab1543c2f6af745bf7d3757e9c6181
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-eeab1543c2f6af745bf7d3757e9c6181
-    projectPath: Temp\UnityTempFile-eeab1543c2f6af745bf7d3757e9c6181
+  - path: Pirate\Temp\UnityTempFile-825348dd6e3cb9446b63da461444f28d
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-825348dd6e3cb9446b63da461444f28d
+    projectPath: Temp\UnityTempFile-825348dd6e3cb9446b63da461444f28d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Temp\UnityTempFile-ff81971ff0a4dac4fb253575494e9696
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-ff81971ff0a4dac4fb253575494e9696
-    projectPath: Temp\UnityTempFile-ff81971ff0a4dac4fb253575494e9696
+  - path: Pirate\Temp\UnityTempFile-89efcd4a4e145ae4098e611cbba93258
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-89efcd4a4e145ae4098e611cbba93258
+    projectPath: Temp\UnityTempFile-89efcd4a4e145ae4098e611cbba93258
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Temp\UnityTempFile-989199418a420cd468e7271a74a8442f
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-989199418a420cd468e7271a74a8442f
+    projectPath: Temp\UnityTempFile-989199418a420cd468e7271a74a8442f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Temp\UnityTempFile-b1d5954476ed5bb4784f690066409ee9
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-b1d5954476ed5bb4784f690066409ee9
+    projectPath: Temp\UnityTempFile-b1d5954476ed5bb4784f690066409ee9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Temp\UnityTempFile-c31c1b4c6eec17c449480dd7381b3ec7
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-c31c1b4c6eec17c449480dd7381b3ec7
+    projectPath: Temp\UnityTempFile-c31c1b4c6eec17c449480dd7381b3ec7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Temp\UnityTempFile-e34ae720a2ecbb046821b2b6cb550c86
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-e34ae720a2ecbb046821b2b6cb550c86
+    projectPath: Temp\UnityTempFile-e34ae720a2ecbb046821b2b6cb550c86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Temp\UnityTempFile-f0f872aee4bf398408cd892a8d948062
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-f0f872aee4bf398408cd892a8d948062
+    projectPath: Temp\UnityTempFile-f0f872aee4bf398408cd892a8d948062
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Temp\UnityTempFile-f1e09508bd85dd744a0fdd86008e24ac
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-f1e09508bd85dd744a0fdd86008e24ac
+    projectPath: Temp\UnityTempFile-f1e09508bd85dd744a0fdd86008e24ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pirate\Temp\UnityTempFile-f77edccfa0887594d8406fdd652e7184
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityTempFile-f77edccfa0887594d8406fdd652e7184
+    projectPath: Temp\UnityTempFile-f77edccfa0887594d8406fdd652e7184
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

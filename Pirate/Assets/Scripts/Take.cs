@@ -12,7 +12,7 @@ public class Take : MonoBehaviour
         
     }
     
-
+    /*
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("collision " + collision.gameObject.name);
@@ -26,5 +26,5 @@ public class Take : MonoBehaviour
     void Heal()
     {
         player.GetComponent<Player_Stats>().Heal(20);
-    }
+    }*/
 }

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyAttackPoint : MonoBehaviour
 {
-    public Animator animator;
+   /* public Animator animator;
     public Transform attackPoint;
     public float attackRange = 0.5f;
     public LayerMask playerLayer;
@@ -26,7 +26,7 @@ public class EnemyAttackPoint : MonoBehaviour
 
         }
     }*/
-    private void OnCollisionStay2D(Collision2D collision)
+   /* private void OnCollisionStay2D(Collision2D collision)
     {
         if (Time.time >= nextAttackTime)
         {
@@ -53,6 +53,6 @@ public class EnemyAttackPoint : MonoBehaviour
         if (attackPoint == null)
             return;
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);
-    }
+    }*/
 
 }

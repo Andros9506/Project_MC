@@ -4,14 +4,48 @@ using UnityEngine;
 using UnityEngine.UI;
 public class HealthBar : MonoBehaviour
 {
-    public Slider slider;
-    public void SetMaxHealth(int health)
+    public GameObject hearth1, hearth2, hearth3, gameOver;
+    public static int health;
+    public void Start()
     {
-        slider.maxValue = health;
-        slider.value = health;
+        health = 3;
+        hearth1.gameObject.SetActive(true);
+        hearth2.gameObject.SetActive(true);
+        hearth3.gameObject.SetActive(true);
+        gameOver.gameObject.SetActive(false);
     }
-    public void SetHealth (int health)
+
+    private void Update()
     {
-        slider.value = health;
+        if (health > 3)
+        {
+            health = 3;
+        }
+            switch (health)
+            {
+                case 3:
+                    hearth1.gameObject.SetActive(true);
+                    hearth2.gameObject.SetActive(true);
+                    hearth3.gameObject.SetActive(true);
+                    break;
+                case 2:
+                    hearth1.gameObject.SetActive(true);
+                    hearth2.gameObject.SetActive(true);
+                    hearth3.gameObject.SetActive(false);
+                    break;
+                case 1:
+                    hearth1.gameObject.SetActive(true);
+                    hearth2.gameObject.SetActive(false);
+                    hearth3.gameObject.SetActive(false);
+                    break;
+                case 0:
+                    hearth1.gameObject.SetActive(false);
+                    hearth2.gameObject.SetActive(false);
+                    hearth3.gameObject.SetActive(false);
+                    gameOver.gameObject.SetActive(true);
+                    Time.timeScale = 0;
+                    break;
+            }
+        
     }
 }
