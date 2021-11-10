@@ -11,7 +11,6 @@ public class Player_Movements : MonoBehaviour
     public float MovementSpeed;
     public float JumpForce = 1;
     public Animator animator;
-    public bool invincibilityFrame;
     //public float JumpSpeed = 1;
 
     //[SerializeField] private LayerMask platforms;
@@ -105,7 +104,6 @@ public class Player_Movements : MonoBehaviour
 
     void Flip()
     {
-        
         rightFace = !rightFace;
         transform.Rotate(0f, 180f, 0f);
     }

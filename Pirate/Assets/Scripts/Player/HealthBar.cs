@@ -48,4 +48,8 @@ public class HealthBar : MonoBehaviour
             }
         
     }
+    public void Heal()
+    {
+        HealthBar.health += 1;
+    }
 }

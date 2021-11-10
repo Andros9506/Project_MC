@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Bomb
   - Enemy
+  - Ground
+  - Hearth
   layers:
   - Default
   - TransparentFX
@@ -20,7 +22,7 @@ TagManager:
   - Player
   - Bomb
   - Enemy
-  - 
+  - Hearth
   - 
   - 
   - 
