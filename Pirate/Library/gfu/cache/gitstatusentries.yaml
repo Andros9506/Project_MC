@@ -13,1649 +13,108 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-09T12:21:20.211+01:00
-  initializedAtString: 2021-11-09T10:52:52.800+01:00
+  lastUpdatedAtString: 2023-09-24T18:03:06.760+02:00
+  initializedAtString: 2023-09-24T17:57:46.312+02:00
   entries:
-  - path: Pirate\Assets\fondo.prefab
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\fondo.prefab
-    projectPath: Assets\fondo.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\fondo.prefab.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\fondo.prefab.meta
-    projectPath: Assets\fondo.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_0.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_0.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_0.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_0.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_0.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_0.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_1.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_1.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_1.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_1.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_2.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_2.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_2.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_2.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_2.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_2.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_3.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_3.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_3.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_3.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_3.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_3.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_4.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_4.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_4.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_4.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_4.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_4.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_5.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_5.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_5.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_5.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_5.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_5.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_6.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_6.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_6.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_6.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_6.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_6.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_7.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_7.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_7.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Decorations (32x32)_7.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Decorations
-      (32x32)_7.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Decorations (32x32)_7.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Tangibile.prefab
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Tangibile.prefab
-    projectPath: Assets\King And Pigs\14-TileSets\Tangibile.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Tangibile.prefab.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Tangibile.prefab.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Tangibile.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_0.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_0.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_0.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_0.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_0.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_0.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_1.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_1.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_1.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_1.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_10.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_10.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_10.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_10.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_10.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_10.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_11.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_11.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_11.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_11.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_11.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_11.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_12.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_12.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_12.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_12.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_12.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_12.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_13.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_13.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_13.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_13.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_13.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_13.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_14.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_14.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_14.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_14.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_14.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_14.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_15.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_15.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_15.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_15.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_15.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_15.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_16.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_16.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_16.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_16.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_16.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_16.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_17.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_17.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_17.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_17.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_17.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_17.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_18.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_18.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_18.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_18.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_18.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_18.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_19.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_19.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_19.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_19.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_19.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_19.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_2.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_2.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_2.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_2.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_2.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_2.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_20.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_20.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_20.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_20.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_20.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_20.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_21.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_21.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_21.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_21.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_21.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_21.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_22.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_22.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_22.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_22.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_22.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_22.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_23.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_23.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_23.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_23.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_23.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_23.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_3.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_3.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_3.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_3.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_3.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_3.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_4.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_4.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_4.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_4.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_4.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_4.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_5.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_5.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_5.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_5.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_5.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_5.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_6.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_6.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_6.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_6.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_6.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_6.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_7.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_7.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_7.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_7.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_7.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_7.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_8.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_8.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_8.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_8.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_8.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_8.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_9.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_9.asset
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_9.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\King And Pigs\14-TileSets\Terrain (32x32)_9.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\King And Pigs\14-TileSets\Terrain
-      (32x32)_9.asset.meta
-    projectPath: Assets\King And Pigs\14-TileSets\Terrain (32x32)_9.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Assets\Pirate bomb\8-Tile-Sets\Tile-Sets (64-64).png.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Pirate bomb\8-Tile-Sets\Tile-Sets
-      (64-64).png.meta
-    projectPath: Assets\Pirate bomb\8-Tile-Sets\Tile-Sets (64-64).png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Resources\Hearth animation.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Hearth animation.meta
-    projectPath: Assets\Resources\Hearth animation.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\Hearth animation\Hearth Idle.controller
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Hearth animation\Hearth
-      Idle.controller
-    projectPath: Assets\Resources\Hearth animation\Hearth Idle.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\Hearth animation\Hearth Idle.controller.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Hearth animation\Hearth
-      Idle.controller.meta
-    projectPath: Assets\Resources\Hearth animation\Hearth Idle.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\Hearth animation\IdleHearth.anim
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Hearth animation\IdleHearth.anim
-    projectPath: Assets\Resources\Hearth animation\IdleHearth.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\Hearth animation\IdleHearth.anim.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Hearth animation\IdleHearth.anim.meta
-    projectPath: Assets\Resources\Hearth animation\IdleHearth.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\Prefabs\Hearth.prefab
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Prefabs\Hearth.prefab
-    projectPath: Assets\Resources\Prefabs\Hearth.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\Prefabs\Hearth.prefab.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Prefabs\Hearth.prefab.meta
-    projectPath: Assets\Resources\Prefabs\Hearth.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\Prefabs\Protagonista.prefab
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\Prefabs\Protagonista.prefab
-    projectPath: Assets\Resources\Prefabs\Protagonista.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Resources\TileSets.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets.meta
-    projectPath: Assets\Resources\TileSets.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo.meta
-    projectPath: Assets\Resources\TileSets\Bordo.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Bordo.prefab
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Bordo.prefab
-    projectPath: Assets\Resources\TileSets\Bordo\Bordo.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Bordo.prefab.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Bordo.prefab.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Bordo.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_0 1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_0 1.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_0 1.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_0 1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_0 1.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_0 1.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_0.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_0.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_0.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_0.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_0.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_0.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1 1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_1 1.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1 1.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1 1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_1 1.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1 1.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_1.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_1.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1_1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_1_1.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1_1.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1_1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_1_1.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_1_1.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_8 1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_8 1.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_8 1.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_8 1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_8 1.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_8 1.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_8.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_8.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_8.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_8.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_8.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_8.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9 1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_9 1.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9 1.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9 1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_9 1.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9 1.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9 2.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_9 2.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9 2.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9 2.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_9 2.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9 2.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_9.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_9.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9_1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_9_1.asset
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9_1.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9_1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Bordo\Tile-Sets
-      (64-64)_9_1.asset.meta
-    projectPath: Assets\Resources\TileSets\Bordo\Tile-Sets (64-64)_9_1.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo.meta
-    projectPath: Assets\Resources\TileSets\Sfondo.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Decorations (32x32)_0.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Decorations
-      (32x32)_0.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Decorations (32x32)_0.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Decorations (32x32)_0.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Decorations
-      (32x32)_0.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Decorations (32x32)_0.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Decorations (32x32)_3.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Decorations
-      (32x32)_3.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Decorations (32x32)_3.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Decorations (32x32)_3.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Decorations
-      (32x32)_3.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Decorations (32x32)_3.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Decorations (32x32)_4.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Decorations
-      (32x32)_4.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Decorations (32x32)_4.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Decorations (32x32)_4.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Decorations
-      (32x32)_4.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Decorations (32x32)_4.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Decorations (32x32)_5.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Decorations
-      (32x32)_5.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Decorations (32x32)_5.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Decorations (32x32)_5.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Decorations
-      (32x32)_5.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Decorations (32x32)_5.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\fondo.prefab
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\fondo.prefab
-    projectPath: Assets\Resources\TileSets\Sfondo\fondo.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\fondo.prefab.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\fondo.prefab.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\fondo.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_0.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_0.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_0.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_0.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_0.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_0.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_1.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_1.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_1.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_1.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_10.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_10.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_10.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_10.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_10.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_10.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_11.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_11.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_11.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_11.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_11.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_11.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_12.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_12.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_12.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_12.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_12.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_12.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_13.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_13.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_13.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_13.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_13.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_13.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_14.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_14.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_14.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_14.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_14.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_14.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_15.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_15.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_15.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_15.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_15.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_15.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_16.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_16.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_16.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_16.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_16.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_16.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_17.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_17.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_17.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_17.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_17.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_17.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_18.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_18.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_18.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_18.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_18.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_18.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_19.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_19.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_19.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_19.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_19.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_19.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_2.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_2.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_2.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_2.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_2.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_2.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_20.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_20.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_20.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_20.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_20.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_20.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_21.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_21.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_21.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_21.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_21.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_21.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_22.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_22.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_22.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_22.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_22.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_22.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_23.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_23.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_23.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_23.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_23.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_23.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_3.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_3.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_3.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_3.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_3.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_3.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_4.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_4.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_4.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_4.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_4.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_4.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_5.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_5.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_5.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_5.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_5.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_5.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_6.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_6.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_6.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_6.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_6.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_6.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_7.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_7.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_7.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_7.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_7.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_7.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_8.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_8.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_8.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_8.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_8.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_8.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_9.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_9.asset
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_9.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Sfondo\Terrain (32x32)_9.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Sfondo\Terrain
-      (32x32)_9.asset.meta
-    projectPath: Assets\Resources\TileSets\Sfondo\Terrain (32x32)_9.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile.meta
-    projectPath: Assets\Resources\TileSets\Tangibile.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile\Decorations (32x32)_1.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile\Decorations
-      (32x32)_1.asset
-    projectPath: Assets\Resources\TileSets\Tangibile\Decorations (32x32)_1.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile\Decorations (32x32)_1.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile\Decorations
-      (32x32)_1.asset.meta
-    projectPath: Assets\Resources\TileSets\Tangibile\Decorations (32x32)_1.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile\Decorations (32x32)_2.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile\Decorations
-      (32x32)_2.asset
-    projectPath: Assets\Resources\TileSets\Tangibile\Decorations (32x32)_2.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile\Decorations (32x32)_2.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile\Decorations
-      (32x32)_2.asset.meta
-    projectPath: Assets\Resources\TileSets\Tangibile\Decorations (32x32)_2.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile\Decorations (32x32)_6.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile\Decorations
-      (32x32)_6.asset
-    projectPath: Assets\Resources\TileSets\Tangibile\Decorations (32x32)_6.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile\Decorations (32x32)_6.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile\Decorations
-      (32x32)_6.asset.meta
-    projectPath: Assets\Resources\TileSets\Tangibile\Decorations (32x32)_6.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile\Decorations (32x32)_7.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile\Decorations
-      (32x32)_7.asset
-    projectPath: Assets\Resources\TileSets\Tangibile\Decorations (32x32)_7.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile\Decorations (32x32)_7.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile\Decorations
-      (32x32)_7.asset.meta
-    projectPath: Assets\Resources\TileSets\Tangibile\Decorations (32x32)_7.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile\Tangibile.prefab
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile\Tangibile.prefab
-    projectPath: Assets\Resources\TileSets\Tangibile\Tangibile.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tangibile\Tangibile.prefab.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tangibile\Tangibile.prefab.meta
-    projectPath: Assets\Resources\TileSets\Tangibile\Tangibile.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_10.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_10.asset
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_10.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_10.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_10.asset.meta
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_10.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_2.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_2.asset
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_2.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_2.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_2.asset.meta
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_2.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_3.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_3.asset
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_3.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_3.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_3.asset.meta
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_3.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_4.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_4.asset
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_4.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_4.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_4.asset.meta
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_4.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_5.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_5.asset
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_5.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_5.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_5.asset.meta
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_5.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_6.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_6.asset
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_6.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_6.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_6.asset.meta
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_6.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_7.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_7.asset
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_7.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Resources\TileSets\Tile-Sets (64-64)_7.asset.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Resources\TileSets\Tile-Sets
-      (64-64)_7.asset.meta
-    projectPath: Assets\Resources\TileSets\Tile-Sets (64-64)_7.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Scenes\SampleScene.unity
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scenes\SampleScene.unity
-    projectPath: Assets\Scenes\SampleScene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Scripts\Other.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Other.meta
-    projectPath: Assets\Scripts\Other.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Scripts\Other\Heal.cs
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Other\Heal.cs
-    projectPath: Assets\Scripts\Other\Heal.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Scripts\Other\Heal.cs.meta
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Other\Heal.cs.meta
-    projectPath: Assets\Scripts\Other\Heal.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Assets\Scripts\Player\HealthBar.cs
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Player\HealthBar.cs
-    projectPath: Assets\Scripts\Player\HealthBar.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Scripts\Player\Player_Movements.cs
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Player\Player_Movements.cs
-    projectPath: Assets\Scripts\Player\Player_Movements.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Assets\Scripts\Take.cs
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Assets\Scripts\Take.cs
-    projectPath: Assets\Scripts\Take.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Library\AnnotationManager
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\AnnotationManager
-    projectPath: Library\AnnotationManager
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Pirate\Library\ArtifactDB
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pirate\Library\Artifacts\01\01ac3e928354c72590e95a4bc8b8823e
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\01\01ac3e928354c72590e95a4bc8b8823e
-    projectPath: Library\Artifacts\01\01ac3e928354c72590e95a4bc8b8823e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\03\0326f84477afec152e29d45a0e4f21f9
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\03\0326f84477afec152e29d45a0e4f21f9
-    projectPath: Library\Artifacts\03\0326f84477afec152e29d45a0e4f21f9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\04\04c97e94d19629428ccd60e712f5d360
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\04\04c97e94d19629428ccd60e712f5d360
-    projectPath: Library\Artifacts\04\04c97e94d19629428ccd60e712f5d360
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\05\05800853886b8e7fc777491913f6bbc6
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\05\05800853886b8e7fc777491913f6bbc6
-    projectPath: Library\Artifacts\05\05800853886b8e7fc777491913f6bbc6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\06\0697958b16d79cdf39cb10102a0b80c3
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\06\0697958b16d79cdf39cb10102a0b80c3
-    projectPath: Library\Artifacts\06\0697958b16d79cdf39cb10102a0b80c3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\07\075f0a1ad8df99292f74217766673270
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\07\075f0a1ad8df99292f74217766673270
     projectPath: Library\Artifacts\07\075f0a1ad8df99292f74217766673270
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\09\0904b8747b898694f5c88dcd6579edd9
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\09\0904b8747b898694f5c88dcd6579edd9
     projectPath: Library\Artifacts\09\0904b8747b898694f5c88dcd6579edd9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\0b\0b55a86bd8b462d3c9cab92aac1c3d05
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\0b\0b55a86bd8b462d3c9cab92aac1c3d05
-    projectPath: Library\Artifacts\0b\0b55a86bd8b462d3c9cab92aac1c3d05
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\12\12626276716df7a6ac15800e70d7ed06
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\12\12626276716df7a6ac15800e70d7ed06
-    projectPath: Library\Artifacts\12\12626276716df7a6ac15800e70d7ed06
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\12\1273e3ba5acba3cdcc5f190c7b4e898c
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\12\1273e3ba5acba3cdcc5f190c7b4e898c
-    projectPath: Library\Artifacts\12\1273e3ba5acba3cdcc5f190c7b4e898c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\12\1291f45939480765ed41057313f85039
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\12\1291f45939480765ed41057313f85039
     projectPath: Library\Artifacts\12\1291f45939480765ed41057313f85039
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
-    projectPath: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\13\13e2f971cd159e7e9539345ad17eb4f4
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\13\13e2f971cd159e7e9539345ad17eb4f4
     projectPath: Library\Artifacts\13\13e2f971cd159e7e9539345ad17eb4f4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\14\142b5696c648d7f5d0588a59af0e7a39
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\14\142b5696c648d7f5d0588a59af0e7a39
     projectPath: Library\Artifacts\14\142b5696c648d7f5d0588a59af0e7a39
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\14\14372b0d4d161246773e9ee3be10f548
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\14\14372b0d4d161246773e9ee3be10f548
     projectPath: Library\Artifacts\14\14372b0d4d161246773e9ee3be10f548
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\15\1538cac24741a3b98d451597cfa35a90
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\15\1538cac24741a3b98d451597cfa35a90
-    projectPath: Library\Artifacts\15\1538cac24741a3b98d451597cfa35a90
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\16\1675be061b210968382a4d29e91f096d
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\16\1675be061b210968382a4d29e91f096d
     projectPath: Library\Artifacts\16\1675be061b210968382a4d29e91f096d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\17\17f3b1ffff2686bdd6d813e011bd9c04
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\17\17f3b1ffff2686bdd6d813e011bd9c04
-    projectPath: Library\Artifacts\17\17f3b1ffff2686bdd6d813e011bd9c04
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\19\19929c544b2d02905a8e4fdc934caad5
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\19\19929c544b2d02905a8e4fdc934caad5
     projectPath: Library\Artifacts\19\19929c544b2d02905a8e4fdc934caad5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\19\19d087cd4b2b2aeb85f46e9f117dddfd
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\19\19d087cd4b2b2aeb85f46e9f117dddfd
-    projectPath: Library\Artifacts\19\19d087cd4b2b2aeb85f46e9f117dddfd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\1e\1e1cb4c59ac2f1a1fe7ffda5ce26e988
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\1e\1e1cb4c59ac2f1a1fe7ffda5ce26e988
     projectPath: Library\Artifacts\1e\1e1cb4c59ac2f1a1fe7ffda5ce26e988
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\1e\1ec57dad202287f8b0a6a10873911060
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\1e\1ec57dad202287f8b0a6a10873911060
-    projectPath: Library\Artifacts\1e\1ec57dad202287f8b0a6a10873911060
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\20\2025297025472bc430e2ff167b5567c0
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\20\2025297025472bc430e2ff167b5567c0
-    projectPath: Library\Artifacts\20\2025297025472bc430e2ff167b5567c0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\20\20bb83b2a6f6455c602a9dff1824872d
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\20\20bb83b2a6f6455c602a9dff1824872d
-    projectPath: Library\Artifacts\20\20bb83b2a6f6455c602a9dff1824872d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\20\20ce6f5473e146a13c0e07708795675e
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\20\20ce6f5473e146a13c0e07708795675e
-    projectPath: Library\Artifacts\20\20ce6f5473e146a13c0e07708795675e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\20\20d2730a15ea9d453e584eb3e3e831cf
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\20\20d2730a15ea9d453e584eb3e3e831cf
-    projectPath: Library\Artifacts\20\20d2730a15ea9d453e584eb3e3e831cf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\22\2267c16531f3d298592522a6ac03e6ff
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\22\2267c16531f3d298592522a6ac03e6ff
-    projectPath: Library\Artifacts\22\2267c16531f3d298592522a6ac03e6ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\23\23318cf341f8825ea7fcbbc8c3c438ef
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\23\23318cf341f8825ea7fcbbc8c3c438ef
-    projectPath: Library\Artifacts\23\23318cf341f8825ea7fcbbc8c3c438ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\24\2408db93d8cac9457bea2ed0f453fff9
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\24\2408db93d8cac9457bea2ed0f453fff9
     projectPath: Library\Artifacts\24\2408db93d8cac9457bea2ed0f453fff9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\24\2450f4d83cc6155cba803ef7d73e0f15
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\24\2450f4d83cc6155cba803ef7d73e0f15
-    projectPath: Library\Artifacts\24\2450f4d83cc6155cba803ef7d73e0f15
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\25\259d320474c6a597c9ff6b6e999f88a1
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\25\259d320474c6a597c9ff6b6e999f88a1
     projectPath: Library\Artifacts\25\259d320474c6a597c9ff6b6e999f88a1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\26\265a8fb28f9ec1fd81100e0ce008f91c
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\26\265a8fb28f9ec1fd81100e0ce008f91c
-    projectPath: Library\Artifacts\26\265a8fb28f9ec1fd81100e0ce008f91c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\27\272f95e04e262862e5626d1a9818e839
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\27\272f95e04e262862e5626d1a9818e839
     projectPath: Library\Artifacts\27\272f95e04e262862e5626d1a9818e839
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\27\2738047d1a9a8b9fde8037bdd2c93ca7
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\27\2738047d1a9a8b9fde8037bdd2c93ca7
-    projectPath: Library\Artifacts\27\2738047d1a9a8b9fde8037bdd2c93ca7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\27\27ed3a98c9684537795ad245f1d35289
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\27\27ed3a98c9684537795ad245f1d35289
-    projectPath: Library\Artifacts\27\27ed3a98c9684537795ad245f1d35289
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\28\281b79b9197eb1edd2a51515ccbbaf74
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\28\281b79b9197eb1edd2a51515ccbbaf74
     projectPath: Library\Artifacts\28\281b79b9197eb1edd2a51515ccbbaf74
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\28\287698dff42f43f5c3114e5fe1dc98a9
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\28\287698dff42f43f5c3114e5fe1dc98a9
-    projectPath: Library\Artifacts\28\287698dff42f43f5c3114e5fe1dc98a9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\29\29961a654a0f904a242e9e1a5b35e6f4
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\29\29961a654a0f904a242e9e1a5b35e6f4
     projectPath: Library\Artifacts\29\29961a654a0f904a242e9e1a5b35e6f4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\2b\2b6f45ed3f37da6a2f3f8ed15ba05615
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2b\2b6f45ed3f37da6a2f3f8ed15ba05615
-    projectPath: Library\Artifacts\2b\2b6f45ed3f37da6a2f3f8ed15ba05615
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\2d\2db05e010d4d2b22baf348c9776aa595
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2d\2db05e010d4d2b22baf348c9776aa595
-    projectPath: Library\Artifacts\2d\2db05e010d4d2b22baf348c9776aa595
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\2e\2e711e3d5885b42a893ad1bf48415752
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2e\2e711e3d5885b42a893ad1bf48415752
     projectPath: Library\Artifacts\2e\2e711e3d5885b42a893ad1bf48415752
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\2e\2ebd4a1c592711a029f7f00c6a7a40bc
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\2e\2ebd4a1c592711a029f7f00c6a7a40bc
-    projectPath: Library\Artifacts\2e\2ebd4a1c592711a029f7f00c6a7a40bc
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\30\30c4a84adf0eb8629308253413390170
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\30\30c4a84adf0eb8629308253413390170
-    projectPath: Library\Artifacts\30\30c4a84adf0eb8629308253413390170
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\35\35dd43917f3ebfa0e25a43e1ecb488ba
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\35\35dd43917f3ebfa0e25a43e1ecb488ba
-    projectPath: Library\Artifacts\35\35dd43917f3ebfa0e25a43e1ecb488ba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\39\39c737feda308fea9bea588def3256a1
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\39\39c737feda308fea9bea588def3256a1
-    projectPath: Library\Artifacts\39\39c737feda308fea9bea588def3256a1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\3e\3e30208eff6ae5004c8015d4b3c285d3
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\3e\3e30208eff6ae5004c8015d4b3c285d3
-    projectPath: Library\Artifacts\3e\3e30208eff6ae5004c8015d4b3c285d3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\3e\3e802fb7a560a67479116ed925253b90
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\3e\3e802fb7a560a67479116ed925253b90
-    projectPath: Library\Artifacts\3e\3e802fb7a560a67479116ed925253b90
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\3f\3ffce491ab3091dd745737614d8c128f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\3f\3ffce491ab3091dd745737614d8c128f
-    projectPath: Library\Artifacts\3f\3ffce491ab3091dd745737614d8c128f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\41\41992b92111aa959ea7fded3e3da5712
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\41\41992b92111aa959ea7fded3e3da5712
-    projectPath: Library\Artifacts\41\41992b92111aa959ea7fded3e3da5712
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\42\4288463e2a3c8778e9707ed769f01e84
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\42\4288463e2a3c8778e9707ed769f01e84
-    projectPath: Library\Artifacts\42\4288463e2a3c8778e9707ed769f01e84
+  - path: Pirate\Library\Artifacts\43\43824c9a753e72aab1caa15fe227a375
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\43\43824c9a753e72aab1caa15fe227a375
+    projectPath: Library\Artifacts\43\43824c9a753e72aab1caa15fe227a375
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -1663,59 +122,11 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\43\43cb8ed756ee6429edb60535b9ab8551
     projectPath: Library\Artifacts\43\43cb8ed756ee6429edb60535b9ab8551
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\45\4565bfbec83e69692ddb61600bc46217
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\45\4565bfbec83e69692ddb61600bc46217
-    projectPath: Library\Artifacts\45\4565bfbec83e69692ddb61600bc46217
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\46\46b959ff3a545c95be1553caecbf8266
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\46\46b959ff3a545c95be1553caecbf8266
-    projectPath: Library\Artifacts\46\46b959ff3a545c95be1553caecbf8266
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\46\46f2e9ca9cd3d7edc0a5ce0dd7cae236
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\46\46f2e9ca9cd3d7edc0a5ce0dd7cae236
-    projectPath: Library\Artifacts\46\46f2e9ca9cd3d7edc0a5ce0dd7cae236
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\48\481997f82fbd5684ace900e97cbef8da
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\48\481997f82fbd5684ace900e97cbef8da
-    projectPath: Library\Artifacts\48\481997f82fbd5684ace900e97cbef8da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\48\48ea59ce32807463f200abe07ecb0b86
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\48\48ea59ce32807463f200abe07ecb0b86
-    projectPath: Library\Artifacts\48\48ea59ce32807463f200abe07ecb0b86
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\49\4947932e1d4254a2cf6551a6952c95d6
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\49\4947932e1d4254a2cf6551a6952c95d6
-    projectPath: Library\Artifacts\49\4947932e1d4254a2cf6551a6952c95d6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\4a\4a59de208c1fbb6ac1ca5f3dafb552ae
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4a\4a59de208c1fbb6ac1ca5f3dafb552ae
-    projectPath: Library\Artifacts\4a\4a59de208c1fbb6ac1ca5f3dafb552ae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\4c\4c379188b285561f66c256e017fc2a66
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4c\4c379188b285561f66c256e017fc2a66
     projectPath: Library\Artifacts\4c\4c379188b285561f66c256e017fc2a66
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\4d\4da37dfd0564c899c4b67e86bf0696df
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4d\4da37dfd0564c899c4b67e86bf0696df
-    projectPath: Library\Artifacts\4d\4da37dfd0564c899c4b67e86bf0696df
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -1723,53 +134,11 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4d\4dc2702e4e09d617a23eae459be7b74d
     projectPath: Library\Artifacts\4d\4dc2702e4e09d617a23eae459be7b74d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\4f\4f763fda9abae04619d258848576be3b
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4f\4f763fda9abae04619d258848576be3b
-    projectPath: Library\Artifacts\4f\4f763fda9abae04619d258848576be3b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\4f\4fdeb4be01de83f7b3af41f249b5b944
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\4f\4fdeb4be01de83f7b3af41f249b5b944
-    projectPath: Library\Artifacts\4f\4fdeb4be01de83f7b3af41f249b5b944
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\51\516106433b20a6d11fbc834400703ada
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\51\516106433b20a6d11fbc834400703ada
-    projectPath: Library\Artifacts\51\516106433b20a6d11fbc834400703ada
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Pirate\Library\Artifacts\51\519f5103fc7e616427c308e02cf9db4a
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\51\519f5103fc7e616427c308e02cf9db4a
     projectPath: Library\Artifacts\51\519f5103fc7e616427c308e02cf9db4a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\53\537ad0fab8c7e707defc5ddbb99bb0bf
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\53\537ad0fab8c7e707defc5ddbb99bb0bf
-    projectPath: Library\Artifacts\53\537ad0fab8c7e707defc5ddbb99bb0bf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\57\5734f35bcc5b7d4b4f699bc09d442e8f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\57\5734f35bcc5b7d4b4f699bc09d442e8f
-    projectPath: Library\Artifacts\57\5734f35bcc5b7d4b4f699bc09d442e8f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\58\58206f833d635b4a62ba023eeffdd2dc
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\58\58206f833d635b4a62ba023eeffdd2dc
-    projectPath: Library\Artifacts\58\58206f833d635b4a62ba023eeffdd2dc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\5a\5a8cc6499772716ce95b8241dea21241
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5a\5a8cc6499772716ce95b8241dea21241
-    projectPath: Library\Artifacts\5a\5a8cc6499772716ce95b8241dea21241
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -1777,125 +146,29 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5d\5d5b8fdf4fcaa781c19a845b1c23f609
     projectPath: Library\Artifacts\5d\5d5b8fdf4fcaa781c19a845b1c23f609
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\5d\5d64c385e4ebedcfea1fc7eac92dea07
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5d\5d64c385e4ebedcfea1fc7eac92dea07
     projectPath: Library\Artifacts\5d\5d64c385e4ebedcfea1fc7eac92dea07
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\5e\5e5b04cd2d040e2472b4f08ed102feba
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5e\5e5b04cd2d040e2472b4f08ed102feba
-    projectPath: Library\Artifacts\5e\5e5b04cd2d040e2472b4f08ed102feba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\5f\5f77346d9f2183d1acf9ca1d21301d6a
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\5f\5f77346d9f2183d1acf9ca1d21301d6a
-    projectPath: Library\Artifacts\5f\5f77346d9f2183d1acf9ca1d21301d6a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\60\607a9f56e7825701b9b0346291a8ebcf
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\60\607a9f56e7825701b9b0346291a8ebcf
-    projectPath: Library\Artifacts\60\607a9f56e7825701b9b0346291a8ebcf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\61\61106eb328de4f1bce2ca658e3a3beb7
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\61\61106eb328de4f1bce2ca658e3a3beb7
     projectPath: Library\Artifacts\61\61106eb328de4f1bce2ca658e3a3beb7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\63\63684d1b8de1b262e2fb51431bfaec2a
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\63\63684d1b8de1b262e2fb51431bfaec2a
     projectPath: Library\Artifacts\63\63684d1b8de1b262e2fb51431bfaec2a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\68\6850078cbaec22becb96b36ef59a7796
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\68\6850078cbaec22becb96b36ef59a7796
-    projectPath: Library\Artifacts\68\6850078cbaec22becb96b36ef59a7796
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\68\68865d2002955881f1fb63b1bbec8c15
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\68\68865d2002955881f1fb63b1bbec8c15
-    projectPath: Library\Artifacts\68\68865d2002955881f1fb63b1bbec8c15
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\6b\6bcc643d573db5173b3a94b7a065c0ea
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6b\6bcc643d573db5173b3a94b7a065c0ea
     projectPath: Library\Artifacts\6b\6bcc643d573db5173b3a94b7a065c0ea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\6c\6cc271542516656baafd448bb52e233d
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6c\6cc271542516656baafd448bb52e233d
-    projectPath: Library\Artifacts\6c\6cc271542516656baafd448bb52e233d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\6d\6d1d66a48b5192b7586cbafcff1a7662
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\6d\6d1d66a48b5192b7586cbafcff1a7662
-    projectPath: Library\Artifacts\6d\6d1d66a48b5192b7586cbafcff1a7662
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\71\7181da6f1fd89051ca6eb4ede5f8cfe5
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\71\7181da6f1fd89051ca6eb4ede5f8cfe5
-    projectPath: Library\Artifacts\71\7181da6f1fd89051ca6eb4ede5f8cfe5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\77\77d301bcaab4a95f10c1dc8f42a69b68
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\77\77d301bcaab4a95f10c1dc8f42a69b68
-    projectPath: Library\Artifacts\77\77d301bcaab4a95f10c1dc8f42a69b68
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\78\788bc3cbfbb838c9e21974ba7e2c6d5f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\78\788bc3cbfbb838c9e21974ba7e2c6d5f
-    projectPath: Library\Artifacts\78\788bc3cbfbb838c9e21974ba7e2c6d5f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\7a\7a8586ce825038cedddf7df771fd7e49
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\7a\7a8586ce825038cedddf7df771fd7e49
-    projectPath: Library\Artifacts\7a\7a8586ce825038cedddf7df771fd7e49
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\80\80f1e9f67787db0e52f771d3b3c61757
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\80\80f1e9f67787db0e52f771d3b3c61757
-    projectPath: Library\Artifacts\80\80f1e9f67787db0e52f771d3b3c61757
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\83\83fcfde10c1801b2433333b4934accb4
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\83\83fcfde10c1801b2433333b4934accb4
-    projectPath: Library\Artifacts\83\83fcfde10c1801b2433333b4934accb4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\84\848376a1bd5e27f541d02cb36a01548c
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\84\848376a1bd5e27f541d02cb36a01548c
-    projectPath: Library\Artifacts\84\848376a1bd5e27f541d02cb36a01548c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\87\87164eeddbd87deaf55ebe7f2854c3b2
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\87\87164eeddbd87deaf55ebe7f2854c3b2
-    projectPath: Library\Artifacts\87\87164eeddbd87deaf55ebe7f2854c3b2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -1903,89 +176,35 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\89\89e142cef621805326af18494d2b66e6
     projectPath: Library\Artifacts\89\89e142cef621805326af18494d2b66e6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\8a\8ac8eeae79c44805f9050589bffa5cab
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\8a\8ac8eeae79c44805f9050589bffa5cab
     projectPath: Library\Artifacts\8a\8ac8eeae79c44805f9050589bffa5cab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\96\96420edcc6421ac50bba7b84357503cb
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\96\96420edcc6421ac50bba7b84357503cb
     projectPath: Library\Artifacts\96\96420edcc6421ac50bba7b84357503cb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\96\96ae67d837ff17df8fb70ae6a0df499f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\96\96ae67d837ff17df8fb70ae6a0df499f
-    projectPath: Library\Artifacts\96\96ae67d837ff17df8fb70ae6a0df499f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\99\99353de2d0c0ee9d3f6ce2bd28964bdc
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\99\99353de2d0c0ee9d3f6ce2bd28964bdc
-    projectPath: Library\Artifacts\99\99353de2d0c0ee9d3f6ce2bd28964bdc
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\9a\9a489f57836db509331d142a88368741
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9a\9a489f57836db509331d142a88368741
-    projectPath: Library\Artifacts\9a\9a489f57836db509331d142a88368741
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\9c\9c4f526685e569c45304e7ea6c0cb8d8
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\9c\9c4f526685e569c45304e7ea6c0cb8d8
-    projectPath: Library\Artifacts\9c\9c4f526685e569c45304e7ea6c0cb8d8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\a2\a2e8f1e9fb788e6968573e2b980dc46c
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a2\a2e8f1e9fb788e6968573e2b980dc46c
-    projectPath: Library\Artifacts\a2\a2e8f1e9fb788e6968573e2b980dc46c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\a4\a4bf1e97ded7189183c93c74102cc839
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a4\a4bf1e97ded7189183c93c74102cc839
-    projectPath: Library\Artifacts\a4\a4bf1e97ded7189183c93c74102cc839
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\a5\a50e87fa68d3e049f9cc7e5f768be48f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a5\a50e87fa68d3e049f9cc7e5f768be48f
-    projectPath: Library\Artifacts\a5\a50e87fa68d3e049f9cc7e5f768be48f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Pirate\Library\Artifacts\a9\a94a1ce98cba2f833b183f81549c6d88
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a9\a94a1ce98cba2f833b183f81549c6d88
     projectPath: Library\Artifacts\a9\a94a1ce98cba2f833b183f81549c6d88
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\a9\a9ea2b2f85c1d8126a20ba441563fe9c
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\a9\a9ea2b2f85c1d8126a20ba441563fe9c
-    projectPath: Library\Artifacts\a9\a9ea2b2f85c1d8126a20ba441563fe9c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\ab\ab0b57d3cc9e9a6abf2e9e3a7396b550
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ab\ab0b57d3cc9e9a6abf2e9e3a7396b550
     projectPath: Library\Artifacts\ab\ab0b57d3cc9e9a6abf2e9e3a7396b550
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\b0\b05806580bdf5cc75a0ee582d768ee93
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b0\b05806580bdf5cc75a0ee582d768ee93
     projectPath: Library\Artifacts\b0\b05806580bdf5cc75a0ee582d768ee93
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\b2\b2c18a94ea1e415afcded174ed784dcd
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b2\b2c18a94ea1e415afcded174ed784dcd
-    projectPath: Library\Artifacts\b2\b2c18a94ea1e415afcded174ed784dcd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -1993,173 +212,47 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b3\b32d03fe8dc3e130f59c9a3faaa61774
     projectPath: Library\Artifacts\b3\b32d03fe8dc3e130f59c9a3faaa61774
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\b4\b441a9f979e4c713d296b0e8c311e34f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b4\b441a9f979e4c713d296b0e8c311e34f
-    projectPath: Library\Artifacts\b4\b441a9f979e4c713d296b0e8c311e34f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\b6\b68f47a77626e08f9fdff9e12abd110e
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b6\b68f47a77626e08f9fdff9e12abd110e
     projectPath: Library\Artifacts\b6\b68f47a77626e08f9fdff9e12abd110e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\b7\b725195d161541e521d8d1a05c0a4d42
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b7\b725195d161541e521d8d1a05c0a4d42
-    projectPath: Library\Artifacts\b7\b725195d161541e521d8d1a05c0a4d42
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\b7\b7aefa6e2a0c458c12032a9d6909b593
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b7\b7aefa6e2a0c458c12032a9d6909b593
-    projectPath: Library\Artifacts\b7\b7aefa6e2a0c458c12032a9d6909b593
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\b7\b7edbb78efbc8fcd77054ec56d42b8e1
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b7\b7edbb78efbc8fcd77054ec56d42b8e1
     projectPath: Library\Artifacts\b7\b7edbb78efbc8fcd77054ec56d42b8e1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\b8\b83cf2b8b5579a91ad0e6b7cbac4957a
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\b8\b83cf2b8b5579a91ad0e6b7cbac4957a
     projectPath: Library\Artifacts\b8\b83cf2b8b5579a91ad0e6b7cbac4957a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\ba\ba984cd4bdc07d1e6f517b4f0fed7ad2
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ba\ba984cd4bdc07d1e6f517b4f0fed7ad2
-    projectPath: Library\Artifacts\ba\ba984cd4bdc07d1e6f517b4f0fed7ad2
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Pirate\Library\Artifacts\ba\bab605f89b91cd9fa7cbfc0aa4823a44
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ba\bab605f89b91cd9fa7cbfc0aa4823a44
+    projectPath: Library\Artifacts\ba\bab605f89b91cd9fa7cbfc0aa4823a44
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\bd\bdf60e5f4e64358515cd1579bd7c9732
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\bd\bdf60e5f4e64358515cd1579bd7c9732
     projectPath: Library\Artifacts\bd\bdf60e5f4e64358515cd1579bd7c9732
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\c0\c0a4256a930a4979928a2337417150a3
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c0\c0a4256a930a4979928a2337417150a3
-    projectPath: Library\Artifacts\c0\c0a4256a930a4979928a2337417150a3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\c7\c79396625cbc8b09297e8a860acee377
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c7\c79396625cbc8b09297e8a860acee377
-    projectPath: Library\Artifacts\c7\c79396625cbc8b09297e8a860acee377
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Pirate\Library\Artifacts\cf\cf0067b0853c8771a2b2a95a6896a30b
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\cf\cf0067b0853c8771a2b2a95a6896a30b
+    projectPath: Library\Artifacts\cf\cf0067b0853c8771a2b2a95a6896a30b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\c8\c83264e4c49e9088a48c94fe0b087506
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c8\c83264e4c49e9088a48c94fe0b087506
-    projectPath: Library\Artifacts\c8\c83264e4c49e9088a48c94fe0b087506
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\c9\c9e72e7059a57bd88a3be3b4c2b4858f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\c9\c9e72e7059a57bd88a3be3b4c2b4858f
-    projectPath: Library\Artifacts\c9\c9e72e7059a57bd88a3be3b4c2b4858f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\cd\cd50d4ebc9074c3e34028322ea41c633
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\cd\cd50d4ebc9074c3e34028322ea41c633
-    projectPath: Library\Artifacts\cd\cd50d4ebc9074c3e34028322ea41c633
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\cf\cf7424200747bfc817fb07989f60df0d
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\cf\cf7424200747bfc817fb07989f60df0d
-    projectPath: Library\Artifacts\cf\cf7424200747bfc817fb07989f60df0d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\cf\cfd6128b2c841ba81f213f5e08fbe019
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\cf\cfd6128b2c841ba81f213f5e08fbe019
-    projectPath: Library\Artifacts\cf\cfd6128b2c841ba81f213f5e08fbe019
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\d0\d0797c24cebc130dd5da0646386fb54a
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d0\d0797c24cebc130dd5da0646386fb54a
-    projectPath: Library\Artifacts\d0\d0797c24cebc130dd5da0646386fb54a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\d4\d4f09bb99d008ccf45125e8821cab1cc
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d4\d4f09bb99d008ccf45125e8821cab1cc
-    projectPath: Library\Artifacts\d4\d4f09bb99d008ccf45125e8821cab1cc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\d5\d5db3cfa596d4bb322abb085e8522124
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d5\d5db3cfa596d4bb322abb085e8522124
-    projectPath: Library\Artifacts\d5\d5db3cfa596d4bb322abb085e8522124
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\d8\d840837e0e12534c2700dbf4170b720e
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d8\d840837e0e12534c2700dbf4170b720e
-    projectPath: Library\Artifacts\d8\d840837e0e12534c2700dbf4170b720e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\d9\d9c4c31ce0cd485df272fa701a6f722c
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d9\d9c4c31ce0cd485df272fa701a6f722c
-    projectPath: Library\Artifacts\d9\d9c4c31ce0cd485df272fa701a6f722c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\d9\d9d3aadb74b9714553cef3d27b031394
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\d9\d9d3aadb74b9714553cef3d27b031394
-    projectPath: Library\Artifacts\d9\d9d3aadb74b9714553cef3d27b031394
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\db\db1eaebf2922b2a999863649d97383f6
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\db\db1eaebf2922b2a999863649d97383f6
-    projectPath: Library\Artifacts\db\db1eaebf2922b2a999863649d97383f6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\de\de384468b14864f661d45963341f16f3
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\de\de384468b14864f661d45963341f16f3
-    projectPath: Library\Artifacts\de\de384468b14864f661d45963341f16f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\de\de6625e9300522b98b60124312ced896
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\de\de6625e9300522b98b60124312ced896
-    projectPath: Library\Artifacts\de\de6625e9300522b98b60124312ced896
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\e1\e1819cd0b92fdea45aef49cf70976857
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e1\e1819cd0b92fdea45aef49cf70976857
-    projectPath: Library\Artifacts\e1\e1819cd0b92fdea45aef49cf70976857
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\e3\e323b83e39a0c6d01c8f344457d23d82
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e3\e323b83e39a0c6d01c8f344457d23d82
-    projectPath: Library\Artifacts\e3\e323b83e39a0c6d01c8f344457d23d82
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\e4\e470b2cbc624e9586766f898eae1b2a0
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e4\e470b2cbc624e9586766f898eae1b2a0
-    projectPath: Library\Artifacts\e4\e470b2cbc624e9586766f898eae1b2a0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\e8\e83446aadcab8f29ae6d467a3bcb9d61
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e8\e83446aadcab8f29ae6d467a3bcb9d61
-    projectPath: Library\Artifacts\e8\e83446aadcab8f29ae6d467a3bcb9d61
+  - path: Pirate\Library\Artifacts\e4\e48d23f5e8a4c856473bad6c46106b38
+    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e4\e48d23f5e8a4c856473bad6c46106b38
+    projectPath: Library\Artifacts\e4\e48d23f5e8a4c856473bad6c46106b38
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -2167,59 +260,11 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e9\e981c13d7797b80185aa5d3a28cc804d
     projectPath: Library\Artifacts\e9\e981c13d7797b80185aa5d3a28cc804d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\e9\e9ca9a125754e397ad741f7521aa9a0a
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\e9\e9ca9a125754e397ad741f7521aa9a0a
     projectPath: Library\Artifacts\e9\e9ca9a125754e397ad741f7521aa9a0a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\ee\ee0bd0d39a790cd9d01f0b86951ce568
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ee\ee0bd0d39a790cd9d01f0b86951ce568
-    projectPath: Library\Artifacts\ee\ee0bd0d39a790cd9d01f0b86951ce568
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\ee\eeaded64e57e0214b8dd7eeeebf61058
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ee\eeaded64e57e0214b8dd7eeeebf61058
-    projectPath: Library\Artifacts\ee\eeaded64e57e0214b8dd7eeeebf61058
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\f4\f4b5377393243506a0ea4f09d581b17f
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f4\f4b5377393243506a0ea4f09d581b17f
-    projectPath: Library\Artifacts\f4\f4b5377393243506a0ea4f09d581b17f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\f7\f73b5cf9ce69eef7fcbbe11e13ac9577
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f7\f73b5cf9ce69eef7fcbbe11e13ac9577
-    projectPath: Library\Artifacts\f7\f73b5cf9ce69eef7fcbbe11e13ac9577
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\f8\f8a4eb1dba11aafa69e1a2e06d9a3db8
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\f8\f8a4eb1dba11aafa69e1a2e06d9a3db8
-    projectPath: Library\Artifacts\f8\f8a4eb1dba11aafa69e1a2e06d9a3db8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\fa\fa137a899e26d3de88936681a3f75016
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fa\fa137a899e26d3de88936681a3f75016
-    projectPath: Library\Artifacts\fa\fa137a899e26d3de88936681a3f75016
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pirate\Library\Artifacts\fb\fba28412484d6d9caf5f87281e075a31
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fb\fba28412484d6d9caf5f87281e075a31
-    projectPath: Library\Artifacts\fb\fba28412484d6d9caf5f87281e075a31
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\fc\fc69ae12634d0a3ac7b71b9403df7d5a
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fc\fc69ae12634d0a3ac7b71b9403df7d5a
-    projectPath: Library\Artifacts\fc\fc69ae12634d0a3ac7b71b9403df7d5a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -2227,23 +272,11 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fe\fe4bd498a813d805ab7458578d57c326
     projectPath: Library\Artifacts\fe\fe4bd498a813d805ab7458578d57c326
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\fe\fe87ae2eda9919f31e1abd70fbb069eb
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fe\fe87ae2eda9919f31e1abd70fbb069eb
-    projectPath: Library\Artifacts\fe\fe87ae2eda9919f31e1abd70fbb069eb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\fe\fee369fdccb02d5067eb80fa54ed7387
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\fe\fee369fdccb02d5067eb80fa54ed7387
     projectPath: Library\Artifacts\fe\fee369fdccb02d5067eb80fa54ed7387
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\Artifacts\ff\ff36ac05aeb9a1c031e36752f8ba353b
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ff\ff36ac05aeb9a1c031e36752f8ba353b
-    projectPath: Library\Artifacts\ff\ff36ac05aeb9a1c031e36752f8ba353b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -2251,41 +284,23 @@ MonoBehaviour:
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ff\ff6efd46fba1eb6852ce234e046deae7
     projectPath: Library\Artifacts\ff\ff6efd46fba1eb6852ce234e046deae7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Pirate\Library\Artifacts\ff\ffe9fb37ce95bcec075949fab1e6b222
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\Artifacts\ff\ffe9fb37ce95bcec075949fab1e6b222
     projectPath: Library\Artifacts\ff\ffe9fb37ce95bcec075949fab1e6b222
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Pirate\Library\EditorInstance.json
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pirate\Library\expandedItems
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Pirate\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2313,18 +328,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pirate\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
-    projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Pirate\Library\SceneVisibilityState.asset
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -2337,54 +340,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pirate\Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
-    projectPath: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Library\StateCache\PrefabStageHierarchy\d5\d520681f720cf0414083ab8df2a70fd4.json
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\StateCache\PrefabStageHierarchy\d5\d520681f720cf0414083ab8df2a70fd4.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\d5\d520681f720cf0414083ab8df2a70fd4.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\StateCache\SceneView\27\277f31fd0835461ed71a22cd82e90e07.json
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\StateCache\SceneView\27\277f31fd0835461ed71a22cd82e90e07.json
-    projectPath: Library\StateCache\SceneView\27\277f31fd0835461ed71a22cd82e90e07.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pirate\Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
-    projectPath: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Logs\ApiUpdaterCheck.txt
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Logs\ApiUpdaterCheck.txt
-    projectPath: Logs\ApiUpdaterCheck.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\ProjectSettings\Physics2DSettings.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\ProjectSettings\Physics2DSettings.asset
-    projectPath: ProjectSettings\Physics2DSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\ProjectSettings\TagManager.asset
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pirate\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Pirate\Temp\UnityLockfile
     fullPath: C:\Users\halov\Documents\Repo\Pirate\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
